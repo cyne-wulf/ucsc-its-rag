@@ -11,8 +11,11 @@ import {
   useState,
 } from "react";
 import clsx from "clsx";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import styles from "./chat-app.module.css";
 import type { AnswerResult, SourceDocument } from "@/lib/types";
+import type { Components } from "react-markdown";
 
 type Message = {
   id: string;
@@ -28,6 +31,14 @@ const examplePrompts = [
   "Get eduroam Wi-Fi on macOS",
   "Report a phishing message",
 ];
+
+const markdownComponents: Components = {
+  a: (props) => {
+    const { node, ...rest } = props;
+    void node;
+    return <a {...rest} target="_blank" rel="noreferrer" />;
+  },
+};
 
 async function fetchAnswer(question: string): Promise<AnswerResult> {
   const response = await fetch("/api/answer", {
@@ -170,6 +181,21 @@ export function ChatApp() {
     setPreviewState("loaded");
   };
 
+  const renderMessageContent = (message: Message) => {
+    if (message.role === "assistant" || message.role === "system") {
+      return (
+        <ReactMarkdown
+          className={styles.markdown}
+          remarkPlugins={[remarkGfm]}
+          components={markdownComponents}
+        >
+          {message.content}
+        </ReactMarkdown>
+      );
+    }
+    return <p className={styles.userText}>{message.content}</p>;
+  };
+
   const latestSources =
     messages
       .slice()
@@ -227,7 +253,7 @@ export function ChatApp() {
                   key={message.id}
                   className={clsx(styles.message, roleClass)}
                 >
-                  {message.content}
+                  {renderMessageContent(message)}
                 </article>
               );
             })}

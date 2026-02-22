@@ -86,7 +86,7 @@
   background: var(--panel-muted);
   border: 1px solid var(--border);
   line-height: 1.5;
-  white-space: pre-line;
+  white-space: normal;
 }
 
 .user {
@@ -102,6 +102,40 @@
   font-size: 0.85rem;
   color: var(--text-muted);
   border-style: dashed;
+}
+
+.userText {
+  margin: 0;
+  white-space: pre-line;
+}
+
+.markdown {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  font-size: 0.95rem;
+}
+
+.markdown :global(p) {
+  margin: 0;
+}
+
+.markdown :global(ul),
+.markdown :global(ol) {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.markdown :global(code) {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  padding: 0.15rem 0.4rem;
+  font-size: 0.9em;
+}
+
+.markdown :global(a) {
+  color: var(--accent);
+  text-decoration: underline;
 }
 
 .composer {
