@@ -1,0 +1,653 @@
+# UCSC ITS KB URLs (652 articles) - generated 2026-02-05T06:02:20.142Z
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=003722299766b6106aa6fbee2153af14  # KB0019666 How do I download a transcript from a YuJa video?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=01e18ca59714b2106aa6fbee2153afa1  # KB0020972 How do I return a laptop or power bank to the Library Laptop Kiosk?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=02092b1a33fcaa90142a5ad24d5c7b2b  # KB0020912 Data entry phishing
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=02159b39975eba50df44f5d3f153af94  # KB0019474 Am I eligible for campus-issued software?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=02a80039337b5610142a5ad24d5c7b94  # KB0020433 Wepa print from personal computer
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=02b74da097c2f210df44f5d3f153afaa  # KB0019949 SensusAccess Integration in Canvas
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=02cdc93097c9be106aa6fbee2153afac  # KB0021701 Duo Desktop Authenticaton System Requirements
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=03015e5633739a10142a5ad24d5c7bcc  # KB0020449 How to Fix the Slack Helper Tool Pop-Up Issue on macOS?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=03bdcdb2c3eefe102de8f2bdc00131ca  # KB0020537 Getting started with Endpoint Detection and Response
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0435e7ecc3cdbe102de8f2bdc00131d3  # KB0015537 How do I configure my browser to accept cookies from a specific site?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=04b9979c97cd6e109e9f30771153afec  # KB0021112 Getting access to Campus Groups
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=04e29e0033c9e610142a5ad24d5c7bd4  # KB0021048 How do I get a Canvas development course shell?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=051b01a0c31432902de8f2bdc001313e  # KB0021154 Installing and using Adobe Creative Cloud at UC Santa Cruz
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=05e42fe83309ea10142a5ad24d5c7b6f  # KB0021122 Printing and copying services on campus
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=06df234897d166509e9f30771153af9b  # KB0021273 Using Shibboleth with your application
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0704d52c97c2f210df44f5d3f153af5d  # KB0020464 List of all General Assignment Classes
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=071d91803341e610142a5ad24d5c7bfb  # KB0021039 Creating a new personal authentication token in GitLab (Students)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0762ead4c3a1a2502de8f2bdc0013199  # KB0021369 How to find your service tag or serial number on a windows computer
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=07bf94c63373d610142a5ad24d5c7b67  # KB0020440 Wepa printing Android app
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=080058dc97d566509e9f30771153afc2  # KB0021287 Logging out of single sign-on (SSO)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=08cba5ad9795f2106aa6fbee2153afdd  # KB0020976 What are the specifications of the laptops in the Library Laptop Kiosk?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=08d7755633186e90142a5ad24d5c7be6  # KB0016557 How can I view the text of a message that I sent out via the MyUCSC messaging feature?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=08dc277097deb2506aa6fbee2153af7d  # KB0018623 Getting started with MyUCSC Accessibility
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=092288b733d8e6d0142a5ad24d5c7bc5  # KB0019677 DIG for Department Staff
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=096bad2e97cd6a109e9f30771153af34  # KB0020421 Getting started with MyUCSC
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0a68896597b42a909e9f30771153af2a  # KB0020811 How to update your UC Santa Cruz emergency contacts in the CruzID Manager.
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0a6dd65c33cd2a10142a5ad24d5c7be9  # KB0021074 ResWifi (SSID)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0b1e291bc37f26102de8f2bdc00131c2  # KB0019645 Adding people to a Canvas course site after the term is over
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0b87db90c33e32902de8f2bdc001313c  # KB0019940 What to do if you provided personal information to a scam
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0c74c4d29731b250df44f5d3f153af7d  # KB0016049 How to access or transfer ownership of another person's resources: email, calendars, documents, mailing lists, and campus business email accounts?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0d817bcc97d166509e9f30771153afaf  # KB0021275 Glossary of Shibboleth terms
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0f5851843301e610142a5ad24d5c7b38  # KB0021036 Logging into your GitLab account (Students)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0f89d1bbc31136102de8f2bdc001312f  # KB0020515 Using Gmail
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0fb96ac09790b6506aa6fbee2153afd3  # KB0020153 VPN will not connect - troubleshooting steps
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0fd91f049762b690df44f5d3f153af56  # KB0020294 What if I clicked the "Yes, this is my Device" button but I am still being asked to authenticate?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=0ffd75b5976eb610df44f5d3f153aff0  # KB0021410 The Unix Timeshare has been retired as of June 20, 2025
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=10128eeac3016e10dcf0f60f050131f4  # KB0021221 Security and Managed Computer Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=106bebcc979166509e9f30771153af73  # KB0021266 Shibboleth with homegrown applications and vendor applications
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=10903fea97583a106aa6fbee2153af30  # KB0020858 How to set a password recovery email
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1343083b33d8e6d0142a5ad24d5c7b33  # KB0020599 SETS Student Reminder Emails
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=14859c6e3374ea90142a5ad24d5c7be9  # KB0020933 Phishing Awareness
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1555d6d497856e109e9f30771153af43  # KB0021071 Getting started with Campus Groups
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1563193197663a106aa6fbee2153af7d  # KB0020287 How do SMS Text Messages work with Duo MFA?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=15c8526a97603614df44f5d3f153af16  # KB0020852 Connect your Android Device or Chromebook to ResWiFi
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=15d2ce6ec3016e10dcf0f60f05013192  # KB0021222 Computer configuration and Managed Computer Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1657d390c33e32902de8f2bdc00131f3  # KB0021679 Unwanted Google Calendar invites
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=16a50490979566509e9f30771153afc6  # KB0021280 Vendor integration and Shibboleth
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=16b797d0c33e32902de8f2bdc0013198  # KB0019994 Annual Pension Review Scam
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=16bad3b1c31a7a502de8f2bdc0013140  # KB0020511 Getting Started with Email Lists (Google Groups)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=16d12c429709a6109e9f30771153af6c  # KB0019304 Error trying to access Adobe Creative Cloud
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1778eb32970df6506aa6fbee2153afbc  # KB0021431 How can I change my Password Recovery Email address?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=177c6fef97693610df44f5d3f153afac  # KB0020942 Website and web app accessibility
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1832a10197bba6106aa6fbee2153af20  # KB0020932 Phishing alert
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1938e441c35236502de8f2bdc001315d  # KB0020373 How to install and set up the Zoom Extension for Chrome and Firefox
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=194412fa33c56e10142a5ad24d5c7be3  # KB0021229 Faculty requests for new educational technology
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1a074f08979d26509e9f30771153af49  # KB0021263 Duo Mobile Application shows "Account disabled"
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1a5250b997386a909e9f30771153af97  # KB0020403 What two way radio services are available to campus users
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1ad12fbec3b5be102de8f2bdc0013120  # KB0020913 Avoid Data Security Breaches
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1c3b0e0a97e6fa106aa6fbee2153afb9  # KB0020289 How do I add, remove, or rename devices in Duo?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1cb7dc9c97fc7610df44f5d3f153af00  # KB0019514 UCSC WordPress: How to add the Campus Directory block
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1cbc3000330da610142a5ad24d5c7b55  # KB0021021 How to Get Online at UC Santa Cruz
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1cdfd87cc3ed26502de8f2bdc0013105  # KB0016384 Report a Classroom Media Equipment Problem
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1d25c698975d7e50df44f5d3f153af59  # KB0020100 Getting started with Canva
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1d4939fb97d93610df44f5d3f153afec  # KB0020508 Getting started with Google Calendar
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1df94199972c6a109e9f30771153af6d  # KB0020696 About the Rachel Carson College Room 101 Mac  Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1e0985b333242a50142a5ad24d5c7b53  # KB0017816 Purchasing Google Chrome Devices
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1e30c4cfc38dee10dcf0f60f050131e6  # KB0020412 Getting started with Ed Discussion
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1e49ff5097a92a50df44f5d3f153afe3  # KB0020880 How to find your voice assistants mac address
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1e4cebef97693610df44f5d3f153af42  # KB0020946 Accessible Complex Images
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1f218cf997d8f2106aa6fbee2153af90  # KB0020105 How to use Microsoft 365 on a Chromebook.
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=1fb6929897856e109e9f30771153af8a  # KB0021072 Roles and responsibilities of Secure File Storage users
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=200351fd97263a106aa6fbee2153af6b  # KB0020278 How does my personal phone number get stored with Duo MFA?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=202c3dd497c16e109e9f30771153affe  # KB0021062 Getting started with Secure File Storage
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=209b05dd972c6a109e9f30771153af7b  # KB0020697 About Music Center Room 249 Mac Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=20f829bd9774aa909e9f30771153af78  # KB0020446 Where you can wirelessly print at UC Santa Cruz using Wēpa
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=219e822133a8aa10142a5ad24d5c7bcd  # KB0020723 Zoom Meeting or Virtual Attendance in rooms without DTENs
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=220134dc975d66509e9f30771153af4f  # KB0021320 Requesting voicemail
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=22481399c305f2502de8f2bdc0013129  # KB0021081 How Long Does a ResNet Hardware Repair Service Request Take?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=228904ac97ceb210df44f5d3f153afe9  # KB0019639 Student Perspective: How to find class Lecture Capture videos
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=22b4d29497856e109e9f30771153afa9  # KB0021070 Getting started with Grouper
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=22df53d49701ae109e9f30771153afb7  # KB0021118 Navigating groups and folders in Grouper
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=22f049d7c3e43e102de8f2bdc0013188  # KB0021646 How to manage your Canvas Dashboard
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2381d4b7c3267a502de8f2bdc001318a  # KB0020288 Are there alternative tokens that can be used with Duo MFA?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=23bd38bd3334a690142a5ad24d5c7bbe  # KB0020826 Making conference calls using desktop telephones
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=23d0ebe397b42a109e9f30771153af32  # KB0020894 Getting Started with MATLAB
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=23d7395633186e90142a5ad24d5c7bd5  # KB0016607 How do I obtain an official or unofficial transcript?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=23df41a7c39672902de8f2bdc0013153  # KB0021232 Installing Microsoft 365 Apps for Windows
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=241b9bfa338d6e10142a5ad24d5c7bca  # KB0020862 Getting started with Log Management
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=242e4935975826509e9f30771153af50  # KB0019662 Password Manager
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=24430b8a97d1f690df44f5d3f153af08  # KB0021597 Zoom AI: Best Practices & Terms of Acceptable Use
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=24ca9cec9702f210df44f5d3f153af09  # KB0019647 How to add personalized questions to SETS
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=24d48edac381ea10dcf0f60f050131e7  # KB0021214 Getting started with UCSC-Devices
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=254d65629701aa109e9f30771153afba  # KB0020420 MyUCSC mobile features
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=256a5bde97ae7e106aa6fbee2153afb0  # KB0021525 How do I resolve issues with receiving a Push from Duo Mobile?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=25a9055897b53a10df44f5d3f153af9d  # KB0020666 About Jamf Pro
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=262f9dec33d16a50142a5ad24d5c7bf0  # KB0021259 UCSC WordPress: How long does it take for Google to index my website?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=264c274097d166509e9f30771153af53  # KB0021268 Single Sign-on (SSO) and Forced Authentication
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=266094a49702f210df44f5d3f153af1d  # KB0019640 Lecture Capture best practices for successful recordings
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=26695fc09762b690df44f5d3f153af03  # KB0020295 How do I disable "Yes, this is my device"?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=26c6d1fdc3aeb6102de8f2bdc0013147  # KB0015951 How do I clear cache, cookies and other browser settings?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=279379b397d93610df44f5d3f153afa4  # KB0020506 Self-Service help and using Google Calendar
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=27e781c4334da610142a5ad24d5c7bba  # KB0021031 Storage Options
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=28bb1548c32122502de8f2bdc00131b1  # KB0020911 How to install Cisco AnyConnect VPN on your computer
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=29696ba4c301fe102de8f2bdc001311f  # KB0015450 How do I disable (turn off) my pop-up blocker?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2987ad5d9760aa109e9f30771153afa2  # KB0020708 About the Social Sciences 1 Room 135 Mac Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=299bcb15974972506aa6fbee2153af5c  # KB0021025 How to use Channels for Resident students
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=299c584e3333d610142a5ad24d5c7bdd  # KB0020438 Wepa printing from a computer lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2a435a1497856e109e9f30771153afc9  # KB0021069 User access management for Secure File Storage
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2b842f15c3f06610dcf0f60f05013104  # KB0020400 Docusign / eSignature FAQs
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2bb3424a97417650df44f5d3f153afa9  # KB0020495 My Google Drive Storage Limits
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2bb90f83c38ca650dcf0f60f050131c1  # KB0020559 Getting started with Data Center backups
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2bde59c63314ea90142a5ad24d5c7b2a  # KB0020484 Getting Started with Workspace services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2c0bf1ee972cf214df44f5d3f153af94  # KB0020086 How to buy a Canva license
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2c339dfd97263a106aa6fbee2153afa7  # KB0020277 How does Duo Security use my data?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2c3f339cc34ab2102de8f2bdc00131b6  # KB0016360 I keep getting signed out of MyUCSC. What is going on?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2cabc417c328e650dcf0f60f050131aa  # KB0020486 How can I deal with Zoombombers who crash my Zoom meeting?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2cc20cf733d8e6d0142a5ad24d5c7b76  # KB0020600 SETS System Access for Department Staff
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2e313c86330de610142a5ad24d5c7b86  # KB0021171 Inactive applications in Adobe Creative Cloud
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2e63275d9705b250df44f5d3f153affe  # KB0021150 What's a ResNet Wireless Access Point (AP)?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2f119bb097af6a109e9f30771153afad  # KB0020798 Where can I find more support for SensusAccess?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2f2c8791c3d036902de8f2bdc00131f1  # KB0020090 How to manage or your Canva account
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2f33ddfd97263a106aa6fbee2153af8d  # KB0020427 Why is Duo Mobile being displayed in a different language?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2f54e20e9719a610df44f5d3f153afef  # KB0021353 New computer setup
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2f7bb92297593a106aa6fbee2153af0e  # KB0021731 Sponsored (Sundry) Accounts: Service Overview
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=2fd67f8e97bd7250df44f5d3f153afd7  # KB0019892 How to obtain and enroll a Duo hardware token
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=30239c2297d56a10df44f5d3f153aff6  # KB0020428 How do I access my Wepa account from the Wēpa Mobile app?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=309e845f975e3290df44f5d3f153afae  # KB0018654 MyUCSC users with Kaspersky Antivirus installed may receive an 'OnReady State' error when trying to access the system. How can they get around this limitation?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=313beb3fc32972102de8f2bdc00131b3  # KB0019860 How to request Microsoft applications that are disabled
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=31dab10833c5e610142a5ad24d5c7b45  # KB0021044 Downloading the Softphones (MiCollab) software
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=325402d2c31efa502de8f2bdc0013182  # KB0021775 How to make your Microsoft Word documents more accessible
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=32789891c3d9b6902de8f2bdc0013154  # KB0016726 I am not a student but have access to MyUCSC and would like to know what my options are concerning eBill
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=32fc10a397f8f6106aa6fbee2153afb9  # KB0021685 How To Transfer Ownership of a Functional Account (Google Apps-Only or Operational Functional Account)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3306cbb997c966109e9f30771153af63  # KB0020671 Standard New Computer Configurations and Included Software
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3343ebb997daf6506aa6fbee2153af58  # KB0020952 SPSS Statistics for Students
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=334973453315ee50142a5ad24d5c7b04  # KB0021200 Getting started with Multi-Factor Authentication (Duo)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=339e24c2330de610142a5ad24d5c7bbe  # KB0021168 Installing Adobe Acrobat Pro separately from  Creative Cloud
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3410e494979966509e9f30771153af44  # KB0021301 Which networks (e.g., ResNet, eduroam) will require EDR software to log into?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3448a63b97d576106aa6fbee2153af58  # KB0020510 Perform a Security Check for Google Groups
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=34b997049762b690df44f5d3f153af81  # KB0020285 Can I use Duo Mobile if my smartphone doesn't have an active cellular plan?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=352ce3ef97693610df44f5d3f153afff  # KB0020947 Accessible data visualizations
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=355ad15897b1f6106aa6fbee2153af70  # KB0020493 Google Drive: My Drive vs. Shared Drives
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3582ccb733d8e6d0142a5ad24d5c7bcf  # KB0019657 How to add Teachers & TAs to courses in DIG
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=36282ec7c3d1aa102de8f2bdc0013146  # KB0021364 How to fix a "435 Headers too Large" error in Google Chrome
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=363c871e97f6ba90df44f5d3f153af2b  # KB0020447 Getting started with Wireless Printing (Wēpa) in computer labs and libraries
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=36a30900334da610142a5ad24d5c7b60  # KB0021030 Digital Accessibility Fundamentals
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=36d63d083385e610142a5ad24d5c7bdc  # KB0020815 Getting started with Automated Call Distribution (Mitel Contact Center)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=37dc550d97d2b650df44f5d3f153afc1  # KB0020555 How can I reactivate a UC Santa Cruz profile in Duo Mobile?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=38812c58979966509e9f30771153af18  # KB0021303 What does device quarantining mean?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=388a53b1c31a7a502de8f2bdc0013192  # KB0020516 Email Size Limits & Storage
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=38e35cc8979de2509e9f30771153afa7  # KB0021261 How to request changes or report problems with the ITS website?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=38f0e7d49701ae109e9f30771153af23  # KB0021119 Adding people in Grouper
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3922b744c399a210dcf0f60f050131e9  # KB0021022 How to Purchase a Laptop or Computer
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=393ac5ad97d13690df44f5d3f153af87  # KB0021609 Can I tell if a Zoom meeting is using AI Companion features?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=393cebef97693610df44f5d3f153af5a  # KB0020943 Mobile application accessibility
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=39497f9597b36a10df44f5d3f153af69  # KB0020350 What is Trellix Endpoint Security (HX)?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=398d09e497c2f210df44f5d3f153aff5  # KB0020345 Routing Audio to the Classroom Media System via HDMI (macOS)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3a77ddac97c2f210df44f5d3f153afed  # KB0020725 How to complete a survey for SETS
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3ad398689702f210df44f5d3f153af78  # KB0019643 How to access and log in to YuJa
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3b7fb0d233856a10142a5ad24d5c7be4  # KB0021192 When I engage the VPN, I can no longer print on my local network
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3bad33429759f690df44f5d3f153afd2  # KB0019911 How can I continue to use Asana?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3be7b17b97d93610df44f5d3f153af73  # KB0020498 How to Reduce Your Google Storage
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3d39efe89769a6506aa6fbee2153afbc  # KB0021370 How do I check my computer's Verified Access status?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3dc2a01c979966509e9f30771153af29  # KB0021305 How is monitoring of the device activity and detection separated if the threat comes from a website being visited?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3eeb8718978d6e109e9f30771153afdb  # KB0021102 Additional support for Virtru
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3ef5013997b3aa106aa6fbee2153afbc  # KB0020341 How to Download and Install the Endpoint Detection and Response Software
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3f1f444a33c5e610142a5ad24d5c7b03  # KB0021149 Getting started with Adobe Creative Cloud
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3fa205f197613e10df44f5d3f153af47  # KB0020487 Google Shared Drive Best Practices
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3fb9845997e3ea109e9f30771153afd6  # KB0021365 How to install Trellix HX on a non-ITS managed computers
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3fc5b74e97bd7250df44f5d3f153afa1  # KB0019760 Does Duo MFA work when traveling abroad?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3fc96ce89742f210df44f5d3f153af0d  # KB0019679 Preparing your Canvas Gradebook for Import to MyUCSC
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=3fdbe59897416e109e9f30771153afbf  # KB0021058 Retention, accessibility, and disposal with encrypted records
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=40781046c389e610dcf0f60f050131df  # KB0020847 Getting started with Physical Server Hosting
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4087d8fec32d32102de8f2bdc00131ac  # KB0020481 How to Stay Secure with Google?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=40c1c3d397196250df44f5d3f153af6e  # KB0018143 How To Confidentially Request Removal of  Account Access as a Supervisor or Manager
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=40c219ffc3ddf2102de8f2bdc00131cb  # KB0021247 How does UCSC handle spam in Gmail?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=41379df397f03a10df44f5d3f153afd7  # KB0021633 How to use the UCSC Events Block
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=417a9aaf33f71610142a5ad24d5c7b50  # KB0020401 Docusign / eSignature Terms of Use
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4253d4fcc336f2902de8f2bdc00131e3  # KB0021797 Access to Google Artificial Intelligence (AI) Tools: Gemini Chat and NotebookLM
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4262d30b33679e90142a5ad24d5c7b2b  # KB0020388 How to request multiple Sundry Accounts
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=42caedea97cd6a109e9f30771153af85  # KB0020413 Getting a MyUCSC account
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=434aa42fc370ba102de8f2bdc0013169  # KB0021689 Turn off private/random MAC Address to connect to ResWiFi-Devices network
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=441fe877c36a7a502de8f2bdc0013168  # KB0017777 I am a new student and do not see any links under My Account $
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=44a91b049762b690df44f5d3f153af46  # KB0020283 Which authentication method is best when there are so many to choose from?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=44bc64a997b02a909e9f30771153af69  # KB0020799 Set up your device to use eduroam: iPhone or iPad
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=451599f597f3aa106aa6fbee2153af80  # KB0020775 How To Install  Campus VPN
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=45db358833c5e610142a5ad24d5c7b71  # KB0021046 Softphones (MiCollab) Workstation Requirements
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=46084ce897ceb210df44f5d3f153af42  # KB0021469 How to give a student with an incomplete access to your past Canvas course
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=475e9fb5c341e610dcf0f60f050131db  # KB0021086 About UC Santa Cruz's Primary Data Center
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=478654db97967e506aa6fbee2153af96  # KB0021362 Set up a Linux device for Verified Access
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4787b05833d1e650142a5ad24d5c7b3f  # KB0021322 How to use voicemail
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=481be83c97c1be106aa6fbee2153af21  # KB0020652 How To Connect to Xfinity on Campus
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=482890823333d610142a5ad24d5c7b47  # KB0020437 Wepa print from USB Drive
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=484fd6ca97f42e909e9f30771153af8b  # KB0020863 Getting started with Computer Surplus and Disposal
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=48f278b533f0a690142a5ad24d5c7bd7  # KB0020821 Types of desktop phones you can order with Desktop Telephone Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4a5747d8974d6e109e9f30771153af74  # KB0020969 How do I log in to a laptop from the Library Laptop Kiosk?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4b8e7d07c3f8f6102de8f2bdc001313d  # KB0021668 What is Duo Desktop Authentication?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4bdb686c9742f210df44f5d3f153af98  # KB0019682 How to copy content from your development shell to your official course shell
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4c4308699714b2106aa6fbee2153af3a  # KB0020980 How do I keep a laptop or power bank from the Library Laptop Kiosk secure?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4e0a646d97113690df44f5d3f153af11  # KB0020279 I have accessibility needs related to MFA. How can ITS help?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4f1ef941977066909e9f30771153af48  # KB0020756 How to set up eduroam
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4f4d4dd1976c6a109e9f30771153af6b  # KB0020698 About the Porter College Room D-240 Mac Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4f78e7ccc319a210dcf0f60f05013116  # KB0021265 How to unsubscribe from the Tech Talk newsletter
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4f93b733c30d32902de8f2bdc0013155  # KB0021694 ResWiFi-Devices compatibility
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=4fb8e09c97d966509e9f30771153afdf  # KB0021317 Can users run a firewall along with running the EDR software?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=50370ca897ceb210df44f5d3f153af37  # KB0021033 Getting started with YuJa
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=50ddb0e89782f210df44f5d3f153af04  # KB0019686 How to schedule a one-off lecture capture recording
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5129bc4833c9a610142a5ad24d5c7b4d  # KB0021018 Data and IT Resource Classifications
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=51a6dac033c9e610142a5ad24d5c7bd8  # KB0021052 How long do I have access to my course in Canvas?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=52a86dddc312b6502de8f2bdc00131d3  # KB0021748 Troubleshooting common errors with Duo Desktop Authenticator
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5310b8c8977db610df44f5d3f153af8f  # KB0020918 Download and install Cisco AnyConnect on a Chromebook or ChromeOS
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=539081c8330da610142a5ad24d5c7b10  # KB0021026 UC Information Technology Recovery Policy (IS-12)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=53aa17109701ae109e9f30771153affc  # KB0021113 Manage Campus Group membership in Grouper
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=54a793d0c33e32902de8f2bdc00131b5  # KB0019738 Compromised Email Account
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=55c91b049762b690df44f5d3f153afef  # KB0019763 How do remembered devices work with Duo?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5628794c3385e610142a5ad24d5c7b14  # KB0020830 Getting started with the Desktop Telephone Service
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5653b1b397d93610df44f5d3f153af53  # KB0020499 Delete All Content in Google Photos
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5698799633186e90142a5ad24d5c7b0a  # KB0017652 How do I email students through My Class Roster (AIS)?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=56a0bcd69775b250df44f5d3f153af44  # KB0021016 What is Duo Desktop?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=56a841a997d13690df44f5d3f153af00  # KB0021611 What topics can I discuss while using Zoom AI features?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=572ed8ff33306610142a5ad24d5c7b99  # KB0020874 How To Connect to Campus VPN
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5755bfca97bd7250df44f5d3f153affc  # KB0019891 How to fix "Invalid Passcode" in Duo Mobile
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5844842897ceb210df44f5d3f153afc3  # KB0020724 SETS Information for Students
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=584decf333f06610142a5ad24d5c7b4d  # KB0021001 How do I upgrade my operating system?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5851b45a9775b250df44f5d3f153afa5  # KB0021698 How to enroll a new or existing computer to use Duo Desktop Authenticator
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5869f261c34d2610dcf0f60f050131a0  # KB0021127 Wired Residential Network
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=587f406697956a10df44f5d3f153af9a  # KB0020426 How do I access my Wepa account from a kiosk?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5950d3d5971c7690df44f5d3f153af38  # KB0018795 Where is my 1098T form?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=59748c7597a97e106aa6fbee2153af6f  # KB0020834 Supported campus business systems for Business Systems Printing
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=59d19b6133335610142a5ad24d5c7b53  # KB0020424 Access your Wepa account from the web
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=59e23fc4c399a210dcf0f60f05013122  # KB0020730 How To Connect your Windows PC to ResWiFi
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5a3a2728c301fe102de8f2bdc0013122  # KB0019461 The MyUCSC Homepage icons (NavBar, Actions, Home, etc.) don't display in FireFox. How can I resolve this?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5a8c04ad971cb690df44f5d3f153af36  # KB0020923 Updating Your Campus Directory Information
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5ac73952975e7a506aa6fbee2153afe3  # KB0020945 Multimedia Accessibility
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5ba382a29720ba506aa6fbee2153af35  # KB0016057 Getting started with Massmail
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5bd5d582978936506aa6fbee2153aff7  # KB0020871 How to find your gaming consoles MAC address
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5beb12c1977466909e9f30771153af3e  # KB0020760 How do I prevent Zoom from echoing while using a DTEN?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5cc8b745975da6109e9f30771153afe3  # KB0020405 Two way radio rental service
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5d09bd8c3385e610142a5ad24d5c7bec  # KB0020818 Getting started with Softphones (MiCollab)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5da248299714b2106aa6fbee2153af77  # KB0020967 How do I check out a laptop from the Library Laptop Kiosk?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5dae38f3c374fa102de8f2bdc00131a1  # KB0020695 About Oakes College Room 205 Windows Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5db454a89702f210df44f5d3f153afb4  # KB0019644 YuJa Lumina Overview
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5db7697133f8a690142a5ad24d5c7b9f  # KB0020840 How to access your Wēpa accounts for Wireless Printing
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5df7dc32c36d32102de8f2bdc001319e  # KB0020332 How do I transfer my Gmail and Drive content from my UCSC Google account to my personal Google account?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5e6fdf39c341e610dcf0f60f05013174  # KB0021089 About UCSC's On-campus Data Center
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5f66479c33c16a10142a5ad24d5c7b1f  # KB0021101 Can I Bring a Wireless Router or WiFi Extender?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5f93bcc833992650142a5ad24d5c7be6  # KB0021262 Can ITS recall an email I sent?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=5fd9ea0297782e909e9f30771153afa3  # KB0020869 What happens after a Security Exception is requested
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6027d750c33e32902de8f2bdc00131a2  # KB0021768 Student Direct Deposit Fraud Phishing Attacks
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=608201cc330da610142a5ad24d5c7b92  # KB0021028 Make IT Accessible
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6111f19a330d6a10142a5ad24d5c7bad  # KB0020968 How to connect to the Campus VPN or Data Center VPN
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=61b8eb24c301fe102de8f2bdc00131a6  # KB0015999 How do I enable Javascript in my browser?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=61baa0ad97113690df44f5d3f153af2f  # KB0020275 How often do I need to use MFA?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=61d3c4f91b07c6109aa9a932604bcba9  # KB0018200 Why was I redirected to a Security/Phishing Alert website when I was trying to get to a different website?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=61fc5e4697d5a610df44f5d3f153afc9  # KB0021351 Requirements to receive support from Standard Desktop Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=625525199760aa109e9f30771153aff1  # KB0020707 About the Jack Baskin Engineering Room 109 Windows Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=630782da979e7a506aa6fbee2153af83  # KB0020941 Document accessibility
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6428fd5633186e90142a5ad24d5c7b33  # KB0016264 How can a former student use MyUCSC to verify or prove that they graduated?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=652a9771c31a7a502de8f2bdc00131f4  # KB0020518 Getting started with Gmail
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6561b2b633896e10142a5ad24d5c7bd4  # KB0021237 Troubleshooting common issues in Microsoft 365 Apps for Enterprise
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=65c0e02b9748b2506aa6fbee2153af67  # KB0020682 Getting started with Canvas
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=66711c77c3267a502de8f2bdc00131b4  # KB0019989 How to enroll in Duo MFA for an Operational Account
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=670f88e2979d3a90df44f5d3f153af21  # KB0019978 Phone and Text Message Scams
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=676cb632c335be102de8f2bdc00131f7  # KB0021750 How do I force all prints on my HP printer to have a date and timestamp? (Windows)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6844fe5597d23a50df44f5d3f153af74  # KB0020199 How do I keep my Gmail account as an alumni?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6925516c97c2f210df44f5d3f153afa0  # KB0020717 Using the Classroom Installed Mac
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=69de38a89782f210df44f5d3f153af44  # KB0019691 How to use the provided classroom lapel microphone
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=69e274cac3fa7e902de8f2bdc00131e3  # KB0020525 Getting started with AWS Academy
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6ad8d92033d16a50142a5ad24d5c7b2c  # KB0020864 How To Connect your Linux PC to ResWiFi
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6b27859fc3fdfe102de8f2bdc0013169  # KB0019492 Using the Course Catalog Block in WordPress
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6c2260d8979966509e9f30771153afce  # KB0021304 Can the EDR software monitor all of my online activities, including which websites I visit and what transactions I make?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6c492f5f97b0e6109e9f30771153af8d  # KB0020983 Compatibility issues with older Pinyin fonts on macOS
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6c56211a33c96a10142a5ad24d5c7be2  # KB0020855 Getting started with Campus VPN
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6c5bc571975826509e9f30771153af26  # KB0020407 Lost, stolen or missing two way radios
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6ce9f6d997d47690df44f5d3f153af7d  # KB0020419 Staff and Advisors: MyUCSC help and training
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6d8ffa1433c16a10142a5ad24d5c7b59  # KB0021096 My Computer Is Running Slow, or I Think My Operating System Is Corrupted: What Can I Do?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6d90fb4897d166509e9f30771153afcc  # KB0021274 Shibboleth technical documentation
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6e38ff43c3c0e650dcf0f60f0501315b  # KB0020563 UCSC Primary Data Center
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6e73d93197663a106aa6fbee2153afe8  # KB0020261 Why does Duo MFA prompt me for a bypass code?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6eac110d97d2b650df44f5d3f153af59  # KB0020485 How do I use Duo Push to authenticate?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6f07d750c33e32902de8f2bdc0013173  # KB0019937 What are job offer scams and how do they work?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=6f13c58397853a506aa6fbee2153afa9  # KB0021709 A list of software that is available on the ITS library kiosk laptops.
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7001c92c9782f210df44f5d3f153afc6  # KB0019693 How to display content wirelessly in the classroom
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=704e14a09742f210df44f5d3f153afac  # KB0019659 How to enable the SETS integration in Canvas
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7056dd2c97c2f210df44f5d3f153afb5  # KB0020722 Extended Display & Screen Mirroring (MacOS)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=70abe11ec35afa502de8f2bdc0013185  # KB0021770 When to choose alt text vs captions for images
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7255a77a33cd6e10142a5ad24d5c7b18  # KB0020859 Getting started with Vulnerability Scans
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=739a16e79792f290df44f5d3f153af58  # KB0019646 Getting started with the Lecture Capture Scheduler
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=73aa48ebc3952e102de8f2bdc0013196  # KB0021366 UCSC WordPress: How to use the News Block
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=73df2bdac3b82e10dcf0f60f050131fc  # KB0020920 Troubleshooting installations of VPN
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=73ff015d976c6a109e9f30771153af79  # KB0020700 About the Jack Baskin Engineering  Room 105 Linux Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=741c520697d5a610df44f5d3f153af74  # KB0021350 Getting Started with Standard Desktop Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=74761b7197a8b6506aa6fbee2153afae  # KB0016517 How to reset your forgotten CruzID password
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=74877ddec39afa502de8f2bdc0013103  # KB0020948 Getting started with Multimedia, Images, Complex Images, and Data Visualization Accessibility
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7490182697263e10df44f5d3f153af99  # KB0017558 As a new student or employee, when do I get my UCSC email account?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=74dd37bb973b6a10df44f5d3f153afe2  # KB0020018 Who Qualifies for a UCSC Alumni Gmail Account?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=74fece9fc3bca250dcf0f60f050131aa  # KB0020956 Tableau
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=75029014971966509e9f30771153afc5  # KB0021289 Single sign-on (SSO) session not working
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7552cce59714b2106aa6fbee2153affd  # KB0020832 Getting started with Library Laptop Kiosks
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=755491b197663a106aa6fbee2153af82  # KB0021208 Multi-Factor Authentication (Duo) in the classroom for instructors
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=76a9684c9724be106aa6fbee2153af69  # KB0017157 How to use Massmail Service?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=76b04a083309e610142a5ad24d5c7b59  # KB0020819 Getting started with Two-Way Radio Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=77836413971a7e506aa6fbee2153afb6  # KB0021772 How do I make my PDF accessible?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=77a5290a97c936506aa6fbee2153af25  # KB0021108 Why Won't My Printer connect to the campus WiFi?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=77b8756433596a50142a5ad24d5c7b98  # KB0019764 Can I be removed from Duo MFA?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=77cc142497b8f2906aa6fbee2153afab  # KB0020069 Where do I get my Asana questions answered?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=78562788c319a210dcf0f60f05013133  # KB0021264 What is the Tech Talk newsletter?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=78f76ce297117a90df44f5d3f153af96  # KB0021728 How do I resolve an "NSURLErrorDomain" error when approving a Duo Push on iOS?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=794d77b9c385e610dcf0f60f05013163  # KB0020851 Connect your iPhone or iPad to ResWiFi
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7970862ac3016e10dcf0f60f050131ef  # KB0021219 Getting started with Managed Computer Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=79d1518197ed2a506aa6fbee2153af95  # KB0021332 Setting up a device for Verified Access
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=79ed1b149701ae109e9f30771153af77  # KB0021115 Requesting access to Grouper
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7a0fc975975826509e9f30771153afae  # KB0019690 UCSC WordPress: Using the Left Navigation Pattern
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7a25d4f8c345fe102de8f2bdc00131e5  # KB0020957 Residential Network Options
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7a5c1cbfc3d8b2d02de8f2bdc0013143  # KB0020822 Getting started with Hummingbird
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7c7d46b3974da2509e9f30771153af4d  # KB0020595 Getting started with Gradescope
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7cd9e13197b4aa909e9f30771153af8f  # KB0020430 How to print your documents using Wēpa wireless printing
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7d73fcfbc3fca650dcf0f60f05013160  # KB0021008 Getting started with Eduroam
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7e27eeb797d576106aa6fbee2153af27  # KB0020504 Getting Started with Google Docs, Sheets and Slides
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7e989446c389e610dcf0f60f05013174  # KB0021155 What Residential Network(s) do I have access to?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7ee9df049762b690df44f5d3f153af36  # KB0020286 Is a smartphone required for Duo MFA?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7f29bbc3c3c0e650dcf0f60f050131ce  # KB0020564 Details about the On-Campus Data Center
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=7f3a5aaf33f71610142a5ad24d5c7bbd  # KB0020396 Training resources for new Docusign users
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=802855ac33916a50142a5ad24d5c7bc4  # KB0020801 Set up your device to use eduroam: Android, Blackberry, or Linux
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=809258079771b650df44f5d3f153afc6  # KB0021764 I received an Experian alert notification email stating that my information was found on the dark web, what should I do?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=818a20ad97113690df44f5d3f153afaf  # KB0020284 Where can I download/update Duo Mobile?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=81c2356533a4aa10142a5ad24d5c7b27  # KB0020716 What are the features and software available on Mac computers in Classrooms?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8282ed5dc339f6102de8f2bdc001317d  # KB0021757 What do I do if I get a bounced email message?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=829c4645978132506aa6fbee2153af75  # KB0021012 Student Computer Recommendations
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=83281ae6c3feb2d02de8f2bdc00131b7  # KB0020246 Requesting refunds for wireless printing with Wēpa
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=83679390c33e32902de8f2bdc00131fc  # KB0020908 Avoid Phishing Emails
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=83acc8a79751f2106aa6fbee2153af2c  # KB0021416 My display went blank and is not showing anything. How do I fix this?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=83c188c897953e506aa6fbee2153af5b  # KB0020981 What are the usage fees and other costs associated with the Library Laptop Kiosk?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=83c65c8997216e50df44f5d3f153afbf  # KB0021374 Duo MFA SMS Passcode and Phone Call authentication retirement
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=83d7c9d2c396fa502de8f2bdc0013129  # KB0019924 How to sign in to M365 (Students only)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=83de58a3c3b932502de8f2bdc001316f  # KB0019469 What do I do when my MATLAB license is expiring?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=83fd359697ec3a506aa6fbee2153af47  # KB0021643 Can I use a shared or departmental email account to impersonate an individual user?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=849294a39791f210df44f5d3f153afb2  # KB0019412 How to log into a domain-bound computer while not connected to a campus network.
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=85078854979566509e9f30771153af63  # KB0021283 Shibboleth and load balancers
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=853cd7909701ae109e9f30771153afae  # KB0021114 Services that use Campus Groups to control access
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8552eefe33096e10142a5ad24d5c7b4e  # KB0021234 Uninstalling Microsoft 365 Apps for Enterprise
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=856306aec3016e10dcf0f60f050131d0  # KB0021223 Hardware and software asset management and Managed Computer Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=85accf44c350be502de8f2bdc0013195  # KB0021054 Getting a Virtru License
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=85d468ce3373d610142a5ad24d5c7b35  # KB0020443 Wepa visitor guest printing account
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=85ed18dc975966509e9f30771153af57  # KB0021296 Is the EDR software required when connecting to the campus VPN? What about when travelling internationally?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=861cd8209742f210df44f5d3f153afdc  # KB0019649 Monitoring response rates for SETS
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8671f4eb97756250df44f5d3f153af2b  # KB0017550 Can permissions for Google Sites vary by page?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=86e7c9989711a6509e9f30771153af3b  # KB0020809 Using the CruzID Manager
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=87bae11897416e109e9f30771153af2f  # KB0021057 Key security features of Virtru
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=883d9cc497bd76106aa6fbee2153af31  # KB0021386 How do I update macOS on a managed computer?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=884f5c14979966509e9f30771153af4f  # KB0021299 What websites or systems will require EDR software for access?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=88a6eab797d576106aa6fbee2153af2e  # KB0020494 Using Google Shared Drive
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=892359fd97263a106aa6fbee2153af90  # KB0020291 What precautions should I take when using MFA at a shared computer such as at the library?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=899e9850979966509e9f30771153afb0  # KB0021298 What operating systems and browsers is the EDR software compatible with?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=89bc24ac9742f210df44f5d3f153afa5  # KB0019685 How to cross-list sections in Canvas
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8ace3792c3d4fa902de8f2bdc00131a9  # KB0020998 Windows Incompatabilites with ResWiFi and Eduroam
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8ae9abe4c3feb2902de8f2bdc00131aa  # KB0021795 CruzID Rename Policy
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8b6c983c97b366106aa6fbee2153afd5  # KB0019505 UCSC WordPress: How to Create a Custom List with the Campus Directory Block
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8b889616339c6e90142a5ad24d5c7bc1  # KB0020598 Zoom Integration in Canvas
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8bed5f56c36da2102de8f2bdc00131e5  # KB0020757 How to install Cisco AnyConnect
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8ca56e8e9719a610df44f5d3f153afe7  # KB0021354 Administrative privileges on your computer
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8de73c8433c9a610142a5ad24d5c7bb3  # KB0021017 Cybersecurity for Students
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8e14bf9797e76a109e9f30771153af82  # KB0019511 What are the WordPress Campus Directory Block Layout Types?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8e33ad3997356a10df44f5d3f153af8e  # KB0017552 How do I share my Google Site?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8ee20c299714b2106aa6fbee2153af3f  # KB0020973 How do I use the laptop and power bank from the Library Laptop Kiosk?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8ef3852097c2f210df44f5d3f153afcc  # KB0019728 How to share YuJa media with specific students
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8f53c8699714b2106aa6fbee2153afdb  # KB0020982 How do I report broken, lost, or stolen devices from the Library Laptop Kiosk?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8fafbf9cc34ab2102de8f2bdc0013100  # KB0015445 Can I log into MyUCSC using my non-English web browser?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=8fe67fc39740ba50df44f5d3f153af14  # KB0021090 I Think I Have a Virus on My Computer. What Should I Do?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=90e2580297c136506aa6fbee2153af52  # KB0021705 How to request auto-captions in YuJa
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=91c3fb04971566509e9f30771153af27  # KB0021277 Shibboleth resources
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=91e03156c39afa502de8f2bdc0013166  # KB0020944 How To Write Effective Alt Text For Web Images
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=91f594bd975426509e9f30771153af3e  # KB0019696 Docusign: I can't open a Docusign envelope that was sent to my email. (Internal/External account, multiple accounts, NA1, NA2, Personal account, Work account)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=921dd7f4c36fa650dcf0f60f05013159  # KB0021505 How to copy content from a past shell to your new course shell
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=924ad62ec3e07a102de8f2bdc001314b  # KB0020672 How to Connect to HBO Max
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=927e2956330d6a10142a5ad24d5c7b1c  # KB0020916 Download and install Cisco AnyConnect for Android
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=929fdd483341e610142a5ad24d5c7b28  # KB0021041 Adding an SSH key in GitLab (Students)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=935537b797e5b610df44f5d3f153afd2  # KB0020258 What is Duo Instant Restore for Android?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=939b9516c3e8f6102de8f2bdc001317a  # KB0021641 ITS Process: How to Create an App Password
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=93d5746ac355a6102de8f2bdc0013182  # KB0021272 Attributes available via Shibboleth
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9419b1bb97d93610df44f5d3f153af65  # KB0020879 I've removed all of my content but my Google storage still shows me using space.
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=94f196d633739a10142a5ad24d5c7b24  # KB0020450 How to Access the UCSC Alumni Portal (engage.ucsc.edu)?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=94fdc9c4338da610142a5ad24d5c7b1c  # KB0021034 About Verified Access
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=95f086d2c381ea10dcf0f60f050131b4  # KB0021211 How to enroll a single device with UCSC-Devices
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=960a13449762b690df44f5d3f153af4b  # KB0021206 Best practices for Multi-Factor Authentication (Duo)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=96c62eb797d576106aa6fbee2153af4e  # KB0020501 Alternate Storage Options
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=96e2abb997daf6506aa6fbee2153afbf  # KB0020951 SPSS for Faculty & Staff
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=977a510c3301e610142a5ad24d5c7b96  # KB0021038 Working in GitLab (Students)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=980a3804c3003a102de8f2bdc00131dd  # KB0021553 How to Uninstall the Endpoint Detection and Response Software
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=981209393374a690142a5ad24d5c7b8d  # KB0020828 Moving your campus desktop telephone
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=98b8b97b97d93610df44f5d3f153af30  # KB0020488 Using Google Drive
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=997705d2c396fa502de8f2bdc0013138  # KB0021198 Getting started with Microsoft 365 Apps
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=99d7e59dc312b6502de8f2bdc0013123  # KB0021700 Why should I use Duo Desktop Authenticator?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=99dabcc833c9a610142a5ad24d5c7beb  # KB0021019 Technology Guidance for Students
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9a1a896d97d13690df44f5d3f153af8a  # KB0021607 How to ask in-meeting questions with the Zoom AI Companion
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9a8a8531975826509e9f30771153af8b  # KB0020409 How do I access radio towers on campus?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9acfd3b233cd6e10142a5ad24d5c7b1f  # KB0021196 Getting started with Mobile Device Management
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9b3bc5f497b672906aa6fbee2153afba  # KB0015407 How do graduate students apply to the University?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9b4a2b6933416610142a5ad24d5c7b84  # KB0019262 Personal purchase of Microsoft Office 365
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9be9c16d97d13690df44f5d3f153afc1  # KB0021600 Enabling Zoom AI features for Individual Zoom Accounts
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9c3f25669701aa109e9f30771153afc4  # KB0015604 How long does it take for MyUCSC to time out?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9cb5b34e97bd7250df44f5d3f153af82  # KB0019759 Which Duo MFA method is preferred?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9cd426b233496e10142a5ad24d5c7ba7  # KB0021235 Eligibility for Microsoft 365 Apps for Enterprise
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9cf924bec3aafe102de8f2bdc0013115  # KB0020281 What are the available authentication methods for Duo MFA?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9d10b446330de610142a5ad24d5c7bcd  # KB0021169 Eligibility for Adobe Creative Cloud
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9d1648fd978db2506aa6fbee2153afba  # KB0020824 Getting started with the Nautilus Hyperconverged GPU Cluster
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9d30b1bf97993610df44f5d3f153af63  # KB0020496 How To Request More Storage
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9d7501a197b42a909e9f30771153aff4  # KB0020810 Updating your campus notifications in the CruzID Manager
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9ddb9ad497c56e109e9f30771153afd2  # KB0021073 Roles and responsibilities for Physical Server Hosting
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9e2d97f633e0a250142a5ad24d5c7bd5  # KB0015498 When can I enter narrative evaluations through MyUCSC?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9ed8d445c33676902de8f2bdc0013168  # KB0021543 Event Support and Video Production
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=9fd9d5883301e610142a5ad24d5c7bf5  # KB0021037 Accessing Gitlab projects (repositories) for coding homework/assignments
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a006149097d17e50df44f5d3f153af1c  # KB0018283 Google Calendar Spam/Phishing
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a09997049762b690df44f5d3f153af0c  # KB0020292 Can a UC Santa Cruz profile be added to Duo Mobile if I'm already using it for third party services?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a0f4e49097d966509e9f30771153afbe  # KB0021309 How much advance notice is provided before the remote delete capability is used by the EDR software?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a127bb3b97e5b610df44f5d3f153af7c  # KB0021458 Purchasing real time captioning or sign language interpreters services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a170f174c3956210dcf0f60f05013104  # KB0019363 What emergency telephone services exist for students, faculty, staff and UCSC guests?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a183825ac381ea10dcf0f60f05013120  # KB0021213 How to enroll multiple devices with UCSC-Devices
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a1ad34de33456a10142a5ad24d5c7b66  # KB0021188 Comparing Campus VPN and Data Center VPN
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a2968f2dc3cd2610dcf0f60f05013131  # KB0021132 File sharing Standards
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a2a85f5897dcf6506aa6fbee2153af03  # KB0020748 Adobe Creative Cloud Log In Troubleshooting
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a34a3e4e9714b6106aa6fbee2153af70  # KB0020805 Closing your CruzID account
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a37d308e97c536506aa6fbee2153af20  # KB0021424 International Travel with Technology: While You Are Traveling
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a4de3b8cc37472502de8f2bdc00131ec  # KB0020418 Faculty: MyUCSC help and training
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a5840eab977392509e9f30771153af6b  # KB0020395 Getting Docusign / eSignature Help
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a60de98997ffa610df44f5d3f153af35  # KB0019472 Getting started with Email and File Encryption (Virtru)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a63690be97a93210df44f5d3f153af04  # KB0020480 Google Consumer Apps vs Workspace Marketplace Apps
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a641b5803345e610142a5ad24d5c7b95  # KB0020816 Getting started with Auto Attendant (Call Tree)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a656a45897d966509e9f30771153afb2  # KB0021313 Where is the data collected by the EDR software stored, for how long, and who has access to it?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a673ccdb971e3290df44f5d3f153afd0  # KB0019887 Duo MFA is disabled.
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a682d814971966509e9f30771153af82  # KB0021290 Consent feature in single sign-on (SSO)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a6ed8daf97396250df44f5d3f153afe2  # KB0020925 Google Offboarding
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a75142da9710e6509e9f30771153afee  # KB0015422 My grade roster is not showing up in my.ucsc.edu for this quarter.
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a77288e497ceb210df44f5d3f153afa6  # KB0020714 Glossary of Classroom Technology Terms
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a7b5187e97a93210df44f5d3f153afa2  # KB0020337 How do I close out my UCSC Google Account?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a7f38cf91b07c6109aa9a932604bcb01  # KB0018536 Security/Phishing ALERT! page is displayed for valid websites due to Newly Observed Domains (NOD)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a8bb708c33c9a610142a5ad24d5c7be9  # KB0021020 Hosting Options at UC Santa Cruz
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a918b66797d072d0df44f5d3f153afd6  # KB0018620 Navigating MyUCSC
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a9565412c3ccb2502de8f2bdc001311d  # KB0021474 Canvas Syllabus Acknowledgement Assignment
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=a9e4c2ae97593a106aa6fbee2153af2d  # KB0021453 Title IX SHAPE Training Course in Canvas
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=aabc215997a0aa109e9f30771153afb2  # KB0020713 About the Cowell Apartments Room 101 Mac and Windows Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ab3c303397703a10df44f5d3f153afc9  # KB0020694 How to Reserve a Computer Lab & Request Software
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ab7c50d8975966509e9f30771153afdc  # KB0021295 Can I request an exception to the EDR requirement? If so, how?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=abd20cf733d8e6d0142a5ad24d5c7bd4  # KB0020602 SETS Teaching Table Instructions for Department Staff
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ac1384699714b2106aa6fbee2153afa7  # KB0020977 What are the specifications of the power banks in the Library Laptop Kiosk?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ac64201097d966509e9f30771153af3f  # KB0021308 Can the EDR software use remote delete capability without human oversight or user notification?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=acd51c3797f3ea106aa6fbee2153afb3  # KB0020561 Data Center Costs and Billing
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=adb1f4a9c335e6102de8f2bdc00131f8  # KB0019402 Accessible Technology – Information for faculty, students and staff
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ae06f50c9705ea109e9f30771153af86  # KB0017449 How do I add the Campus Holiday Calendar to my UCSC Google calendar?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ae7fe046c38de610dcf0f60f050131c4  # KB0020988 Student Computer Recommendations: MacOS
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ae90d010971966509e9f30771153afd4  # KB0021288 Single sign-on (SSO) on shared computers
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ae9266bec371be102de8f2bdc00131de  # KB0021763 How do I perform a BIOS, chipset, firmware, or driver update on my Dell computer using Dell Command Update?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=af0bdc54975966509e9f30771153afa5  # KB0021173 Why is the EDR software being required?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=af0f54e09742f210df44f5d3f153af9e  # KB0019661 How to view SETS reports
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=af2c91c997d2b650df44f5d3f153afd0  # KB0019893 How do I re-sync my Duo Hardware Token?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=af560814979566509e9f30771153af0a  # KB0021282 Shibboleth installation and configuration for local or homegrown applications
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=af5ed8023373d610142a5ad24d5c7b2c  # KB0020439 Wepa mobile device printing Apple iOS
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=af9f0967c39672902de8f2bdc0013120  # KB0021236 Separation from UCSC and Microsoft 365
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=afa288f733d8e6d0142a5ad24d5c7b9c  # KB0020601 SETS Response Rate Dashboard for Department Staff
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b1f901789789be106aa6fbee2153af94  # KB0021699 I no longer want to use Duo Desktop Authenticator
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b233492697d12a106aa6fbee2153afbc  # KB0020689 About UCSC security software and device management tools
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b334e0a9c3f86610dcf0f60f05013172  # KB0020793 Where can I find more support for WordPress?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b37997049762b690df44f5d3f153af59  # KB0020276 How do I login to my UC Santa Cruz account if I don't have a Duo MFA device?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b3adadbb97993610df44f5d3f153afc1  # KB0020500 What Happens If I Reach My Storage Limits?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b3c30e9633986e90142a5ad24d5c7bd5  # KB0016372 Can my email be taken off the Campus Message mailing list, also called the broadcast system?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b50f6752975ce6509e9f30771153afae  # KB0019249 Financial Responsibility Agreement or Student Financial Agreement
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b56bc571975826509e9f30771153af6d  # KB0020404 Two way radio consultation service
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b5c276399751b690df44f5d3f153af04  # KB0021714 What is a Bypass Code and how can I obtain one?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b5c4932133cd2610142a5ad24d5c7beb  # KB0021135 Getting started with Campus Computer Labs
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b62e81dd97d2f650df44f5d3f153afd2  # KB0020223 Duo end of support for iOS 15 and earlier versions on February 17, 2025.
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b63e57e79701fa50df44f5d3f153af00  # KB0020771 How to Connect to ResWifi-Devices
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b67859f53378a690142a5ad24d5c7b21  # KB0020836 Business Systems Printer request instructions
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b765a8ac97b8f2906aa6fbee2153af9d  # KB0020664 About BigFix Computer Management
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b7f59dc833cda610142a5ad24d5c7bfc  # KB0021035 Getting started with GitLab for Instruction (Students)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b7f99a289701ee109e9f30771153af89  # KB0020857 Getting started with InCommon Digital Certificates
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b80fc43cc305fe102de8f2bdc0013157  # KB0020906 Don't Download Unknown Or Unsolicited Programs Or Files
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b9d2c38a97d1f690df44f5d3f153af7d  # KB0021602 How to manage Zoom AI Meeting Summaries
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b9d6ecbcc3f6f2902de8f2bdc0013153  # KB0020978 Zoom in general assignment classrooms equipped for DTEN devices
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=b9e9a99497416e109e9f30771153af42  # KB0021056 How to use Virtru Secure File Share
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=badce9229701aa109e9f30771153af2f  # KB0020414 Using MyUCSC
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=baf1dce49702f210df44f5d3f153affa  # KB0019641 Instructor Perspective: How to access Lecture Capture recordings
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=bb452c1497d966509e9f30771153af85  # KB0021311 Is there a process to recover remotely deleted files by the EDR software?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=bbe251fd97263a106aa6fbee2153af06  # KB0021202 Enroll in Multi-Factor Authentication (Duo)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=bd59b39097a92a50df44f5d3f153af14  # KB0020881 How to find mac address of computer
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=bda3609c979966509e9f30771153af7b  # KB0021307 How are threat thresholds determined?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=be58317b97d93610df44f5d3f153af9e  # KB0020497 How Much Storage Am I Using?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=be953fca97bd7250df44f5d3f153af06  # KB0020215 Why do I see "Additional Verification Needed" from Duo?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=bfd63fc39740ba50df44f5d3f153af00  # KB0020727 How To Connect your Mac to ResWiFi
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=bfd75fd0c33e32902de8f2bdc00131fa  # KB0019689 Guidance on how to prevent/respond to doxxing.
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c0047e7a33896e10142a5ad24d5c7b42  # KB0021238 Support for using Microsoft 365 Apps for Enterprise
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c0cc150d97d2b650df44f5d3f153aff2  # KB0021204 How do I use Duo Multi-Factor Authentication (MFA) to authenticate?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c0d8931f33bca210142a5ad24d5c7b04  # KB0020965 Training for Nautilus Hyperconverged GPU Cluster
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c0e56a0a97382e909e9f30771153af7b  # KB0020867 How to request a vendor risk assessment
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c24310689702f210df44f5d3f153af7a  # KB0019642 Why use Yuja?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c321ac0097fd76106aa6fbee2153af34  # KB0019852 How to sign out of a device from the Microsoft Office 365 website
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c336d77197a8b6506aa6fbee2153afa0  # KB0015784 Getting started with CruzID
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c38ce32397a93610df44f5d3f153af6c  # KB0020940 Email accessibility
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c3ae1f149701ae109e9f30771153af29  # KB0021116 Logging in to Grouper
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c450074b977dae10df44f5d3f153afa0  # KB0021411 Trellix HX Privacy Data Sheet
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c5536425c3f86610dcf0f60f0501314a  # KB0020792 Where can I find more support for Cloud Hosting and Storage  with Amazon Web Services?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c595f7b797e5b610df44f5d3f153afa2  # KB0020257 What is Duo Instant Restore for iOS?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c638719633186e90142a5ad24d5c7b88  # KB0016299 When are grades posted after an instructor has already approved them in the MyUCSC portal?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c648b6ad97a6b6106aa6fbee2153afee  # KB0020721 Ethernet Adapters Guide
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c6afb448330da610142a5ad24d5c7b0b  # KB0021024 Information User Funding Model
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c73811209706f210df44f5d3f153afc8  # KB0021765 What is YuJa Lumina?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c75d29629701aa109e9f30771153af62  # KB0020415 MyUCSC system requirements and settings
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c7623127c30dbe502de8f2bdc0013145  # KB0021506 Installing Microsoft 365 Apps on Macs
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c82a4d2497c2f210df44f5d3f153af57  # KB0019972 Elevating a TA to the TA - Site Manager Role
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c88873ef97382a109e9f30771153af39  # KB0020986 Getting started with Library Laptop Kiosks
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c890e7dbc3b8e250dcf0f60f050131f9  # KB0020975 Physical rooms on campus equipped for Zoom
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c8a9d85997703a906aa6fbee2153af36  # KB0021341 How do I enroll in Duo MFA as a first time user?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=c9c0780ac38de610dcf0f60f050131a4  # KB0020993 Student Computer Recommendations: Windows
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ca2e4db5c338e610dcf0f60f050131ed  # KB0020807 How do I change my CruzID?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=caba2b28c301fe102de8f2bdc0013132  # KB0016362 Which browsers are supported for MyUCSC?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=cbba1ba597c1f250df44f5d3f153af57  # KB0021425 International Travel with Technology: After Returning Home
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=cbdf7e0797956e106aa6fbee2153afed  # KB0020399 Getting started with Qualtrics
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=cc319dbbc3ddf2102de8f2bdc0013162  # KB0017327 Email Spoofing
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=cc87c6e797bbe610df44f5d3f153afbc  # KB0020024 How do I request a change to my UCSC email address?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=cc9aa8e397756250df44f5d3f153af6a  # KB0015761 Who can I contact if I have a question about my student bill?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ccad1e0a97d5a610df44f5d3f153af27  # KB0021352 Installing and using QuickSupport
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=cdad2d16330d6a10142a5ad24d5c7b6f  # KB0020915 Download and install Cisco AnyConnect on an ITS-managed computer
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=cdff8ab7974da2509e9f30771153aff3  # KB0020683 Getting started with Hypothesis
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=cef913449762b690df44f5d3f153afb7  # KB0020282 How many devices can be added to one Duo MFA account?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=cf2384699714b2106aa6fbee2153af85  # KB0020979 How do I print from a Library Laptop Kiosk laptop?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=cfd96f9597bc3a906aa6fbee2153af62  # KB0020467 How do I set up the Duo Mobile application with a UC Santa Cruz profile?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d0d8716b97e9ea10df44f5d3f153af68  # KB0019748 Docusign: Need help finding or recovering a document or envelope in Docusign after 90 days.
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d123cd3d3374a690142a5ad24d5c7b76  # KB0020829 Using telephone services for locations outside of the primary UCSC campus (off-campus)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d140b11a330d6a10142a5ad24d5c7b54  # KB0020919 Download and install Cisco AnyConnect on Linux
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d1b150b6c32d32102de8f2bdc0013182  # KB0020926 What Google services are available for alumni?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d1b4567c977e72906aa6fbee2153afd6  # KB0020305 ITS Policies on Access without Consent
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d1f0aece97f42e909e9f30771153afdc  # KB0020866 What are information security incidents that should be reported?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d2da4323c3906a50dcf0f60f050131e5  # KB0020526 How to Stop Legitimate Emails from Getting Marked as Spam in Gmail
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d3750fb297416e109e9f30771153af93  # KB0021242 How to use the classroom Blu-ray/DVD Player
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d3ae8559976c6a109e9f30771153af6a  # KB0020699 About the Kresge College Room 3401 Mac Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d4cc816697bd76106aa6fbee2153af4c  # KB0020436 How Former Employees Access UCPath
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d6312e3f979576106aa6fbee2153af0f  # KB0020509 Google Groups Tips
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d6bcd08a9785a6109e9f30771153afd2  # KB0021158 Getting started with Canvas Outcomes
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d6c91371c31a7a502de8f2bdc00131a5  # KB0020503 Getting started with Google Drive
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d6e6d11b971e7e506aa6fbee2153af51  # KB0021456 Meeting and event accessibility
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d6f9456d97d13690df44f5d3f153af7e  # KB0021601 How to start Meeting Summary with Zoom AI Companion
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d756c1a097c2f210df44f5d3f153afed  # KB0019741 Browser Recommendations for Using Canvas
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d8c4d842c3f67e902de8f2bdc0013110  # KB0019936 Sign in process for Mac and Windows for Microsoft 365 Apps for Enterprise
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d95518919771a610df44f5d3f153afa6  # KB0021302 Will cell phones connecting to university networks and websites require Endpoint Detection and Response (EDR) software?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=d9777da39790ee509e9f30771153af9d  # KB0020667 Managed Computer Services: Available Software and Installation
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dac2d40297c136506aa6fbee2153af05  # KB0021706 How to edit YuJa captions
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dad674d433d1e650142a5ad24d5c7b97  # KB0021321 Voicemail features
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dbc4116c97c2f210df44f5d3f153af4b  # KB0020688 How to set Gradescope up in Canvas
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dc3a8ad6970d2a109e9f30771153afb1  # KB0020813 Using your CruzID For the first time
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dc4b4500338da610142a5ad24d5c7b23  # KB0021032 Technology Offboarding for Faculty and Staff
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dc7b659597a0aa109e9f30771153af48  # KB0020712 About the Ming Ong Windows Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dcb4b34a97bd7250df44f5d3f153af75  # KB0019343 What software is available in Campus Computer Labs and Libraries?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dd7fbb9cc34ab2102de8f2bdc0013176  # KB0015908 What is the difference between UCSC Email and MyMessages?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dda0c5353374a690142a5ad24d5c7bd2  # KB0020827 Dialing instructions for desktop phones at UC Santa Cruz
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ddb9975233bcaa90142a5ad24d5c7bd7  # KB0020902 Prevent Emails From Looking Phishy
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dde63fc39740ba50df44f5d3f153af1f  # KB0020888 How to find your phone MAC address
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=de3df19897c16e109e9f30771153af5d  # KB0021063 Managing files in Secure File Storage using the Home and Organizational Shares
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=df02f5439799ae10df44f5d3f153af26  # KB0010124 Is the suspicious email I received phishing?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=df21169697607a506aa6fbee2153af7d  # KB0019931 I'm getting a large number of spam emails, help!
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=df7068249742f210df44f5d3f153af05  # KB0019665 Using Zoom as a Backup Option for Lecture Capture
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dfc21854971966509e9f30771153af29  # KB0021291 Make Ready/Not Ready in Mitel Contact Center
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=dfdcfc9d97686a109e9f30771153afba  # KB0020692 Policies & Rules for Computer Lab Use
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e051c92b97c8fa50df44f5d3f153afc3  # KB0015395 How do I get information about applying to Graduate Schools here?  How do I get information on the status of my Grad School Application?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e06af1a79790ee509e9f30771153af1b  # KB0020668 Managed Computer Services: Operating System & Application Patching
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e0a7a162c34d2e10dcf0f60f050131ea  # KB0020416 Getting Started with MyUCSC for Applicants
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e0aa8931975826509e9f30771153af9a  # KB0020408 How do I get radios repaired?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e0c1854c330da610142a5ad24d5c7b18  # KB0021027 UC Electronic Information Security Policy (IS-3)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e12660c0c32036d02de8f2bdc001313c  # KB0020769 Getting started with ResWiFi
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e1bc910d97d2b650df44f5d3f153af6e  # KB0021355 How do I use a Duo Hardware Token to authenticate?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e1c54771c38da610dcf0f60f05013121  # KB0020417 Students: MyUCSC help and training
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e2830a9633986e90142a5ad24d5c7b67  # KB0016804 How do I ensure that my deleted email is really deleted?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e290abf9c341e610dcf0f60f050131a6  # KB0021095 Roles and responsibilities for  UCSC Data Centers
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e2b79832c36d32102de8f2bdc00131cf  # KB0016099 Google's Terms of Service
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e2edef779789e2509e9f30771153af34  # KB0020797 Set up your device to use eduroam: Mac OS
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e32e5a2997d9f2106aa6fbee2153afa5  # KB0021712 macOS Version Support at UCSC
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e365191f97f72a106aa6fbee2153af5b  # KB0017579 Student Access to SAS Software
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e3dc685c971d66509e9f30771153af59  # KB0020825 Getting started with voicemail
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e408395633186e90142a5ad24d5c7ba6  # KB0015416 Where can I check my Biology placement exam score?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e4134dac9782f210df44f5d3f153af03  # KB0019694 How to connect your device for content display via HDMI connection
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e46a251597a0aa109e9f30771153afd1  # KB0020711 About the Crown College Room 201 Mac Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e4dc121497eab2906aa6fbee2153af07  # KB0018077 Classroom media access code
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e52dc8b7973c3a106aa6fbee2153af3d  # KB0020442 Wepa Cloud Account printing
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e5b5156c97c2f210df44f5d3f153afe5  # KB0020720 Routing Audio to the Classroom Media System via HDMI (Windows)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e5f00edc97c16e109e9f30771153afe0  # KB0021064 How to map Organizational and Home Shares on a Mac for Secure File Storage
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e604c841c35ef2502de8f2bdc0013187  # KB0021055 How to use Virtru for Gmail
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e6891f31c31a7a502de8f2bdc00131c9  # KB0020927 Managing your Google Storage
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e6b5774e97bd7250df44f5d3f153af04  # KB0019758 How do I use the Duo Mobile Passcode to Authenticate?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e7793f9097a92a50df44f5d3f153afcf  # KB0020958 How to connect to FSH-Family
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e7c90302c3f0aa10dcf0f60f050131d0  # KB0020609 How To Connect to UCSC-Guest
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e7dcfdc833c5e610142a5ad24d5c7b7d  # KB0021047 Using Softphones (MiCollab)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e86142c83309e610142a5ad24d5c7b73  # KB0020962 Getting started with Video Conferencing (Zoom)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e8c744d4979566509e9f30771153afea  # KB0021284 Forcing authentication and Shibboleth
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=e9196d5197a0aa109e9f30771153aff2  # KB0020710 About the Social Sciences 1 Room 135 Windows Computer Lab
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ea1bc171975826509e9f30771153af38  # KB0020406 Public safety radio system
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ea2a896d97d13690df44f5d3f153afe6  # KB0021608 How does Zoom use my data to provide AI Companion features?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ea54b206c330aa10dcf0f60f05013136  # KB0020877 Connect to ResWiFi-Devices for TV / Streaming
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ea91d4b7c3267a502de8f2bdc001315b  # KB0021539 Why is Duo Security asking to allow or block connections on my local wireless network?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ea988de097c2f210df44f5d3f153afe6  # KB0019971 Enrolling users in a Canvas course In Progress
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=eabe1001c31236502de8f2bdc00131f3  # KB0019425 Office for Mac apps display banner "Your account doesn't allow editing on a Mac"
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=eae972e797d072d0df44f5d3f153af1a  # KB0018621 Using Favorites in MyUCSC
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=eaf39068c334f2502de8f2bdc0013146  # KB0020452 Students: How to Activate your Adobe Creative Cloud Software
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=eb0e00f5c3a1fa102de8f2bdc0013138  # KB0021429 Getting started with Google Shared Drive
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=eb11e84a3373d610142a5ad24d5c7b53  # KB0020441 Wepa email to print
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ec07c19fc3fdfe102de8f2bdc00131d5  # KB0019512 UCSC WordPress: Selecting people and information to display in the Campus Directory Block
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ec17208633b3d610142a5ad24d5c7bf6  # KB0020444 print with Wepa account
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ed292891c37d66102de8f2bdc00131e3  # KB0020639 "Device not allowed" error message when connecting to VPN
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ed53d53197663a106aa6fbee2153af61  # KB0020272 What is Multi-Factor Authentication (MFA) and why is it needed/required?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ed81f03533f0a690142a5ad24d5c7bc6  # KB0020820 Calculating costs of Desktop Telephone Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ee43db1497cd6e109e9f30771153af51  # KB0020422 How to attach LinkedIn Learning Certificates to Personal Account
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ee74def7979d3610df44f5d3f153afd2  # KB0020922 Protect Yourself From Online Scams
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ee87cac49785ea109e9f30771153af39  # KB0020402 Getting started with Docusign / eSignature
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ef76ec2997702a909e9f30771153af5f  # KB0020794 Set up your device to use eduroam: Windows PC
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ef936b1233fcaa90142a5ad24d5c7b13  # KB0020907 Backing Up Important Files
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f043e6e5c38cfe102de8f2bdc00131d9  # KB0021339 Set up a Mac computer for Verified Access
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f058759633186e90142a5ad24d5c7b5f  # KB0016412 Where can I get information about submitting Grades and Evaluations?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f0c610fe97a93210df44f5d3f153af03  # KB0017177 Google Sending Limits
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f0ccc4609702f210df44f5d3f153afb2  # KB0019636 How to share YuJa media through Canvas
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f10690559771a610df44f5d3f153af7b  # KB0021337 Set up a Windows computer for Verified Access
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f18a7c543315e650142a5ad24d5c7b92  # KB0021323 Voicemail storage capacity
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f2c9f50433c5e610142a5ad24d5c7bd5  # KB0021043 Ordering Softphones (MiCollab)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f2ee7f79974136506aa6fbee2153afe6  # KB0020586 Using Multi-Factor Authentication (Duo) in locations restricted by the U.S. Office of Foreign Assets Control
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f324251ac34daa10dcf0f60f05013110  # KB0020445 How to pay for wireless printing using Wēpa
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f390f5bf97993610df44f5d3f153af1a  # KB0020505 Request Google Shared Resource Calendar
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f3bfd8a9c3b86610dcf0f60f050131ca  # KB0020786 Where can I find more support for Zoom?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f421e492c33dea102de8f2bdc001316e  # KB0021312 Does the EDR software log the content of personal files, emails, or web browsing activity?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f48934ed97342a909e9f30771153af60  # KB0020808 Changing your CruzID Password
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f56df04e97c536506aa6fbee2153af86  # KB0021423 International Travel with Technology: Before You Travel
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f6246f05c3f166102de8f2bdc0013101  # KB0020823 Getting started with YuJa-Zoom Connector
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f7441f7497b0b6906aa6fbee2153af90  # KB0021172 Folgo for Google Drive
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f74d183c9721e6506aa6fbee2153afee  # KB0020873 How to find the MAC address of different devices
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f87f809c97d566509e9f30771153af77  # KB0021286 Getting started with Single Sign-on (SSO)
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f9a5b34e97bd7250df44f5d3f153afe4  # KB0019970 How to change lived name in UC Santa Cruz systems for Staff and Faculty
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f9b6ce7bc31536102de8f2bdc00131ed  # KB0019534 How to Add a User to your UCSC WordPress Site
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=f9c3a7659721ae506aa6fbee2153af74  # KB0020735 Minimum Device Requirements for Verified Access
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fa5b0f7ac3686650dcf0f60f05013108  # KB0020737 Systems Protected by UCSC Verified Access
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fa604795970972506aa6fbee2153af69  # KB0020995 I live in a wireless location and my computer does not support WiFi, what should I do?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fba09adf33b0a210142a5ad24d5c7bac  # KB0020806 Getting started with iClicker
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fbcec91f97f3a610df44f5d3f153af55  # KB0020021 How do I log into my UCSC email?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fc0782fbc31536102de8f2bdc001313e  # KB0019655 How to access Google Analytics (GA4) in the UCSC environment
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fc1b2a1397f36a106aa6fbee2153affe  # KB0021528 How to install Rapid7 Insight Agent on a non-ITS managed computer
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fc7a20ad97113690df44f5d3f153af7d  # KB0020290 Whom do I contact for help if I have problems authenticating?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fcdaaffbc32972102de8f2bdc0013178  # KB0019789 Enabled/Disabled Microsoft 365 Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fd1eedbb97993610df44f5d3f153af24  # KB0020507 Google Calendar Privacy and Security
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fd23fc0ec3fa7e902de8f2bdc00131d8  # KB0021121 Getting started with ProctorU
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fd7175ff97993610df44f5d3f153af5e  # KB0020489 Google Drive: Privacy and Security
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fe08f2ad97a6b6106aa6fbee2153af49  # KB0020719 Classroom HDMI Adapters Guide
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fe7f82f3975576106aa6fbee2153af1e  # KB0020519 Getting Started with Google Forms
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fea11c48979de2509e9f30771153af34  # KB0021260 Where are the ITS Organization (Org) Charts?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=feb056129772ba90df44f5d3f153afc0  # KB0021599 How to add UDOIT to your Canvas course
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=fef9aef2c3e36a10524d1e53e40131c6  # KB0020752 Why are some Google Drive files labeled "To Be Deleted"?
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ff01be1b97f36a106aa6fbee2153afaf  # KB0021596 How to uninstall Rapid7 Insight Agent on a non-ITS managed computer
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ff379f50c33e32902de8f2bdc001318e  # KB0019990 Email Impersonation Scams
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ff9f71e6c3016e10dcf0f60f050131c2  # KB0021218 Tools for Managed Computer Services
+https://slughub.ucsc.edu/its?id=kb_article_view&sys_kb_id=ffcc110d97d2b650df44f5d3f153af84  # KB0021325 How do I use Duo MFA at UC Santa Cruz? (Video Demo)

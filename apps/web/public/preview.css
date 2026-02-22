@@ -1,0 +1,189 @@
+:root {
+  font-family: "Inter", "SF Pro Display", "Segoe UI", system-ui, -apple-system, sans-serif;
+  color-scheme: light dark;
+  --preview-bg: #0f172a;
+  --preview-panel: #111a32;
+  --preview-text: #f8fafc;
+  --preview-muted: #cbd5f5;
+  --preview-link: #0ea5e9;
+  --preview-border: rgba(148, 163, 184, 0.3);
+  --preview-highlight: rgba(34, 197, 94, 0.55);
+  --preview-shadow: 0 18px 45px rgba(2, 6, 23, 0.6);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--preview-bg);
+  color: var(--preview-text);
+}
+
+.preview-shell {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 32px 24px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.preview-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.preview-header h1 {
+  margin: 4px 0 8px;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.preview-breadcrumbs {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--preview-muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.preview-updated {
+  font-size: 0.9rem;
+  color: var(--preview-muted);
+}
+
+.preview-source-link {
+  align-self: center;
+  color: var(--preview-link);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.preview-source-link:hover {
+  text-decoration: underline;
+}
+
+.preview-notice {
+  border-radius: 12px;
+  background: rgba(37, 99, 235, 0.08);
+  color: #1d4ed8;
+  padding: 12px 16px;
+  font-size: 0.9rem;
+}
+
+.preview-body {
+  background: var(--preview-panel);
+  border-radius: 20px;
+  padding: 28px;
+  box-shadow: var(--preview-shadow);
+  overflow-y: auto;
+  max-height: none;
+  min-height: 600px;
+}
+
+.preview-body h1,
+.preview-body h2,
+.preview-body h3,
+.preview-body h4,
+.preview-body h5,
+.preview-body h6 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+
+.preview-body p,
+.preview-body li {
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--preview-text);
+}
+
+.preview-body ul,
+.preview-body ol {
+  padding-left: 1.4rem;
+  margin: 1rem 0;
+}
+
+.preview-body blockquote {
+  border-left: 4px solid var(--preview-link);
+  margin: 1.5rem 0;
+  padding-left: 1rem;
+  color: var(--preview-muted);
+}
+
+.preview-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.preview-body th,
+.preview-body td {
+  border: 1px solid var(--preview-border);
+  padding: 0.6rem 0.75rem;
+  text-align: left;
+}
+
+.preview-body code,
+.preview-body pre,
+.preview-body kbd {
+  font-family: "JetBrains Mono", "SFMono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.9rem;
+}
+
+.preview-body pre {
+  background: rgba(15, 23, 42, 0.05);
+  padding: 1rem;
+  border-radius: 12px;
+  overflow: auto;
+}
+
+.preview-error {
+  padding: 2rem;
+  text-align: center;
+  color: #b91c1c;
+  font-weight: 600;
+}
+
+.preview-anchor-hit {
+  outline: 3px solid var(--preview-highlight);
+  border-radius: 12px;
+  padding: 0.5rem;
+  scroll-margin-top: 1rem;
+}
+
+.preview-chunk {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --preview-bg: #0f172a;
+    --preview-panel: #1e293b;
+    --preview-text: #f8fafc;
+    --preview-muted: #cbd5f5;
+    --preview-border: rgba(148, 163, 184, 0.3);
+    --preview-shadow: 0 18px 45px rgba(2, 6, 23, 0.6);
+    --preview-highlight: rgba(34, 197, 94, 0.55);
+  }
+
+  .preview-body blockquote {
+    border-color: rgba(59, 130, 246, 0.7);
+    color: #cbd5f5;
+  }
+
+  .preview-body pre {
+    background: rgba(15, 23, 42, 0.65);
+  }
+}

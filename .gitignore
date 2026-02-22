@@ -1,0 +1,27 @@
+# Node / Next.js artifacts
+.next
+node_modules
+.turbo
+.vercel
+
+# Env files
+.env.local
+.env.production
+.env.production.local
+.env.development.local
+.env.test.local
+
+# Data + ingest outputs
+data/kb/raw
+data/kb/manifest.json
+data/kb/ingest-history.json
+data/kb/*.log
+data/kb/*.cache.json
+
+# Logs
+*.log
+logs
+
+# MacOS
+.DS_Store
+.pnpm-store

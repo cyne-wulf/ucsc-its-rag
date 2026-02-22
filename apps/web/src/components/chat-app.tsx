@@ -1,0 +1,340 @@
+"use client";
+
+import Image from "next/image";
+import { useMutation } from "@tanstack/react-query";
+import { nanoid } from "nanoid";
+import {
+  FormEvent,
+  SyntheticEvent,
+  useEffect,
+  useMemo,
+  useState,
+} from "react";
+import clsx from "clsx";
+import styles from "./chat-app.module.css";
+import type { AnswerResult, SourceDocument } from "@/lib/types";
+
+type Message = {
+  id: string;
+  role: "system" | "user" | "assistant";
+  content: string;
+  sources?: SourceDocument[];
+  fallback?: string;
+};
+
+const examplePrompts = [
+  "Reset my CruzID Blue password",
+  "How do I set up Duo MFA on a new phone?",
+  "Get eduroam Wi-Fi on macOS",
+  "Report a phishing message",
+];
+
+async function fetchAnswer(question: string): Promise<AnswerResult> {
+  const response = await fetch("/api/answer", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ question }),
+  });
+
+  if (!response.ok) {
+    const body = await response.json().catch(() => ({}));
+    throw new Error(body.error || "Request failed");
+  }
+  return response.json();
+}
+
+const initialMessages: Message[] = [
+  {
+    id: "welcome",
+    role: "system",
+    content:
+      "Ask anything about the UCSC ITS Knowledge Base. I'll return grounded answers with citations.",
+  },
+];
+
+export function ChatApp() {
+  const [messages, setMessages] = useState<Message[]>(initialMessages);
+  const [input, setInput] = useState("");
+  const [selectedSource, setSelectedSource] = useState<SourceDocument | null>(
+    null,
+  );
+  const [lastMetadata, setLastMetadata] =
+    useState<AnswerResult["metadata"] | null>(null);
+  const [previewState, setPreviewState] = useState<
+    "idle" | "loading" | "loaded" | "error"
+  >("idle");
+
+  const mutation = useMutation({
+    mutationFn: fetchAnswer,
+    onSuccess: (data) => {
+      const assistantMessage: Message = {
+        id: nanoid(),
+        role: "assistant",
+        content: data.answer,
+        sources: data.sources,
+        fallback: data.fallbackMessage,
+      };
+      setMessages((prev) => [...prev, assistantMessage]);
+      setSelectedSource(data.sources[0] ?? null);
+      setLastMetadata(data.metadata);
+    },
+  });
+
+  const handleSubmit = (event: FormEvent) => {
+    event.preventDefault();
+    if (!input.trim() || mutation.isPending) return;
+
+    const text = input.trim();
+    const userMessage: Message = {
+      id: nanoid(),
+      role: "user",
+      content: text,
+    };
+    setMessages((prev) => [...prev, userMessage]);
+    setInput("");
+    mutation.mutate(text);
+  };
+
+  const previewUrl = useMemo(() => {
+    if (!selectedSource) return "";
+    const base = `/preview/${encodeURIComponent(selectedSource.id)}`;
+    const anchor = selectedSource.anchor
+      ? `?anchor=${encodeURIComponent(selectedSource.anchor)}`
+      : "";
+    return `${base}${anchor}`;
+  }, [selectedSource]);
+
+  const sourceUrl = useMemo(() => {
+    if (!selectedSource) return "";
+    const anchor = selectedSource.anchor
+      ? `#${selectedSource.anchor}`
+      : "";
+    return `${selectedSource.url}${anchor}`;
+  }, [selectedSource]);
+
+  useEffect(() => {
+    if (!previewUrl) {
+      setPreviewState("idle");
+      return;
+    }
+    setPreviewState("loading");
+    const timer = window.setTimeout(() => {
+      setPreviewState((state) =>
+        state === "loading" ? "error" : state,
+      );
+    }, 2500);
+    return () => window.clearTimeout(timer);
+  }, [previewUrl]);
+
+  const handleIframeLoad = (event: SyntheticEvent<HTMLIFrameElement>) => {
+    try {
+      const doc = event.currentTarget.contentDocument;
+      const status = doc?.body?.dataset?.previewStatus;
+      if (status === "error") {
+        setPreviewState("error");
+        return;
+      }
+    } catch {
+      // ignore access errors – treat as loaded
+    }
+    setPreviewState("loaded");
+  };
+
+  const latestSources =
+    messages
+      .slice()
+      .reverse()
+      .find((msg) => msg.role === "assistant" && msg.sources)?.sources ?? [];
+
+  return (
+    <div className={styles.shell}>
+      <header className={styles.header}>
+        <div className={styles.headerLeft}>
+          <Image
+            src="/slug.svg"
+            alt="Sammy the Slug mascot"
+            className={styles.slug}
+            width={56}
+            height={56}
+            priority
+          />
+          <div>
+            <div className={styles.title}>UCSC ITS Support AI</div>
+            <p className={styles.description}>
+              Retrieval-augmented answers from the official ITS Knowledge Base
+              with citations and instant previews.
+            </p>
+          </div>
+        </div>
+        <span className={styles.badge}>INTERNAL DEMO</span>
+      </header>
+
+      <div className={styles.grid}>
+        <section className={clsx(styles.panel, styles.chatPanel)}>
+          <div className={styles.examples}>
+            {examplePrompts.map((prompt) => (
+              <button
+                key={prompt}
+                type="button"
+                className={styles.exampleButton}
+                onClick={() => setInput(prompt)}
+              >
+                {prompt}
+              </button>
+            ))}
+          </div>
+
+          <div className={styles.messageList}>
+            {messages.map((message) => {
+              const roleClass =
+                message.role === "user"
+                  ? styles.user
+                  : message.role === "assistant"
+                    ? styles.assistant
+                    : styles.system;
+              return (
+                <article
+                  key={message.id}
+                  className={clsx(styles.message, roleClass)}
+                >
+                  {message.content}
+                </article>
+              );
+            })}
+            {mutation.isPending && (
+              <article className={clsx(styles.message, styles.assistant)}>
+                Thinking through the retrieved policies…
+              </article>
+            )}
+          </div>
+
+          {mutation.isError && (
+            <div className={styles.error}>
+              {mutation.error instanceof Error
+                ? mutation.error.message
+                : "Something went wrong."}
+            </div>
+          )}
+
+          <form className={styles.composer} onSubmit={handleSubmit}>
+            <textarea
+              className={styles.textarea}
+              placeholder="Describe the ITS problem you're trying to solve…"
+              value={input}
+              onChange={(event) => setInput(event.target.value)}
+            />
+            <button
+              type="submit"
+              className={styles.submitButton}
+              disabled={mutation.isPending}
+            >
+              {mutation.isPending ? "Answering…" : "Ask"}
+            </button>
+          </form>
+
+          {latestSources.length > 0 && (
+            <div className={styles.sourceList}>
+              {latestSources.map((source, index) => {
+                const label = `${index + 1}. ${source.title}`;
+                const active = selectedSource?.id === source.id;
+                return (
+                  <button
+                    key={source.id}
+                    type="button"
+                    className={clsx(
+                      styles.sourceChip,
+                      active && styles.sourceChipActive,
+                    )}
+                    onClick={() => setSelectedSource(source)}
+                  >
+                    {label}
+                  </button>
+                );
+              })}
+            </div>
+          )}
+
+          <div className={styles.metaRow}>
+            <span className={styles.status}>
+              {mutation.isPending
+                ? "Retrieving KB snippets…"
+                : "Ready for your next question"}
+            </span>
+            {lastMetadata && (
+              <>
+                <span>Latency: {lastMetadata.latencyMs ?? 0} ms</span>
+                <span>Snippets searched: {lastMetadata.retrievalCount}</span>
+                <span>
+                  Cache: {lastMetadata.cached ? "hit" : "miss"}
+                </span>
+              </>
+            )}
+          </div>
+
+          {messages[messages.length - 1]?.fallback && (
+            <div className={styles.fallbackBox}>
+              {messages[messages.length - 1]?.fallback}
+            </div>
+          )}
+        </section>
+
+        <section className={clsx(styles.panel, styles.previewPanel)}>
+          <div className={styles.previewToolbar}>
+            <div>
+              <p className={styles.previewLabel}>Source preview</p>
+              <h3 className={styles.previewHeading}>
+                {selectedSource
+                  ? selectedSource.title
+                  : "Select a citation to open the referenced article"}
+              </h3>
+            </div>
+            <div className={styles.previewActions}>
+              {sourceUrl ? (
+                <a
+                  className={styles.linkButton}
+                  href={sourceUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Open help article ↗
+                </a>
+              ) : (
+                <span
+                  className={clsx(
+                    styles.linkButton,
+                    styles.linkButtonDisabled,
+                  )}
+                  aria-disabled="true"
+                >
+                  Open help article ↗
+                </span>
+              )}
+            </div>
+          </div>
+          {previewUrl ? (
+            <iframe
+              key={previewUrl}
+              className={styles.previewFrame}
+              src={previewUrl}
+              title="ITS Knowledge Base preview"
+              sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+              onLoad={handleIframeLoad}
+              onError={() => setPreviewState("error")}
+            />
+          ) : (
+            <div className={styles.previewPlaceholder}>
+              Citations you open will appear here, so you can verify every
+              answer.
+            </div>
+          )}
+          {previewState === "error" && (
+            <div className={styles.previewAlert}>
+              We couldn’t render this preview. Use “Open help article” to view
+              the original source.
+            </div>
+          )}
+        </section>
+      </div>
+    </div>
+  );
+}
