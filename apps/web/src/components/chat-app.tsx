@@ -111,8 +111,6 @@ export function ChatApp() {
   >("idle");
   const iframeRef = useRef<HTMLIFrameElement | null>(null);
   const previewTimeoutRef = useRef<number | null>(null);
-  const focusGuardRef = useRef<number | null>(null);
-  const focusGuardTimeoutRef = useRef<number | null>(null);
 
   const mutation = useMutation({
     mutationFn: fetchAnswer,
@@ -125,7 +123,11 @@ export function ChatApp() {
         fallback: data.fallbackMessage,
       };
       setMessages((prev) => [...prev, assistantMessage]);
-      setSelectedSource(data.sources[0] ?? null);
+      const firstSource = data.sources[0] ?? null;
+      setSelectedSource(firstSource);
+      if (!firstSource) {
+        setPreviewState("idle");
+      }
       setLastMetadata(data.metadata);
     },
   });
@@ -169,14 +171,6 @@ export function ChatApp() {
         window.clearTimeout(previewTimeoutRef.current);
         previewTimeoutRef.current = null;
       }
-      if (focusGuardRef.current) {
-        window.clearInterval(focusGuardRef.current);
-        focusGuardRef.current = null;
-      }
-      if (focusGuardTimeoutRef.current) {
-        window.clearTimeout(focusGuardTimeoutRef.current);
-        focusGuardTimeoutRef.current = null;
-      }
       return;
     }
     setPreviewState("loading");
@@ -190,52 +184,6 @@ export function ChatApp() {
       if (previewTimeoutRef.current) {
         window.clearTimeout(previewTimeoutRef.current);
         previewTimeoutRef.current = null;
-      }
-      if (focusGuardRef.current) {
-        window.clearInterval(focusGuardRef.current);
-        focusGuardRef.current = null;
-      }
-      if (focusGuardTimeoutRef.current) {
-        window.clearTimeout(focusGuardTimeoutRef.current);
-        focusGuardTimeoutRef.current = null;
-      }
-    };
-  }, [previewUrl]);
-
-  useEffect(() => {
-    if (!previewUrl) return;
-    if (!iframeRef.current) return;
-
-    const guard = window.setInterval(() => {
-      if (
-        iframeRef.current &&
-        document.activeElement === iframeRef.current
-      ) {
-        iframeRef.current.blur();
-      }
-    }, 75);
-    focusGuardRef.current = guard;
-    const timeoutId = window.setTimeout(() => {
-      if (focusGuardRef.current) {
-        window.clearInterval(focusGuardRef.current);
-        focusGuardRef.current = null;
-      }
-      if (focusGuardTimeoutRef.current) {
-        window.clearTimeout(focusGuardTimeoutRef.current);
-        focusGuardTimeoutRef.current = null;
-      }
-    }, 3000);
-    focusGuardTimeoutRef.current = timeoutId;
-    return () => {
-      window.clearInterval(guard);
-      if (timeoutId) {
-        window.clearTimeout(timeoutId);
-      }
-      if (focusGuardRef.current === guard) {
-        focusGuardRef.current = null;
-      }
-      if (focusGuardTimeoutRef.current === timeoutId) {
-        focusGuardTimeoutRef.current = null;
       }
     };
   }, [previewUrl]);
@@ -256,11 +204,11 @@ export function ChatApp() {
       previewTimeoutRef.current = null;
     }
     setPreviewState("loaded");
-    try {
-      event.currentTarget.blur();
-    } catch {
-      // ignore
-    }
+    event.currentTarget.blur();
+  };
+
+  const handleIframeFocus = (event: SyntheticEvent<HTMLIFrameElement>) => {
+    event.currentTarget.blur();
   };
 
   const renderMessageContent = (message: Message) => {
@@ -460,6 +408,7 @@ export function ChatApp() {
               sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
               tabIndex={-1}
               onLoad={handleIframeLoad}
+              onFocus={handleIframeFocus}
               onError={() => setPreviewState("error")}
             />
           ) : (
