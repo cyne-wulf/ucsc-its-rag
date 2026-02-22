@@ -110,6 +110,7 @@ export function ChatApp() {
     "idle" | "loading" | "loaded" | "error"
   >("idle");
   const iframeRef = useRef<HTMLIFrameElement | null>(null);
+  const previewTimeoutRef = useRef<number | null>(null);
 
   const mutation = useMutation({
     mutationFn: fetchAnswer,
@@ -162,15 +163,25 @@ export function ChatApp() {
   useEffect(() => {
     if (!previewUrl) {
       setPreviewState("idle");
+      if (previewTimeoutRef.current) {
+        window.clearTimeout(previewTimeoutRef.current);
+        previewTimeoutRef.current = null;
+      }
       return;
     }
     setPreviewState("loading");
-    const timer = window.setTimeout(() => {
-      setPreviewState((state) =>
-        state === "loading" ? "error" : state,
-      );
-    }, 2500);
-    return () => window.clearTimeout(timer);
+    if (previewTimeoutRef.current) {
+      window.clearTimeout(previewTimeoutRef.current);
+    }
+    previewTimeoutRef.current = window.setTimeout(() => {
+      setPreviewState((state) => (state === "loading" ? "error" : state));
+    }, 5000);
+    return () => {
+      if (previewTimeoutRef.current) {
+        window.clearTimeout(previewTimeoutRef.current);
+        previewTimeoutRef.current = null;
+      }
+    };
   }, [previewUrl]);
 
   const handleIframeLoad = (event: SyntheticEvent<HTMLIFrameElement>) => {
@@ -183,6 +194,10 @@ export function ChatApp() {
       }
     } catch {
       // ignore access errors – treat as loaded
+    }
+    if (previewTimeoutRef.current) {
+      window.clearTimeout(previewTimeoutRef.current);
+      previewTimeoutRef.current = null;
     }
     setPreviewState("loaded");
     window.setTimeout(() => {
@@ -355,7 +370,7 @@ export function ChatApp() {
               <h3 className={styles.previewHeading}>
                 {selectedSource
                   ? selectedSource.title
-                  : "Select a citation to open the referenced article"}
+                  : "Latest citation preview will appear here after you ask a question"}
               </h3>
             </div>
             <div className={styles.previewActions}>
@@ -395,14 +410,17 @@ export function ChatApp() {
             />
           ) : (
             <div className={styles.previewPlaceholder}>
-              Citations you open will appear here, so you can verify every
-              answer.
+              Ask a question to load the latest source preview below. You can
+              still open the original article while it loads.
             </div>
+          )}
+          {previewUrl && previewState === "loading" && (
+            <div className={styles.previewLoading}>Loading preview…</div>
           )}
           {previewState === "error" && (
             <div className={styles.previewAlert}>
-              We couldn’t render this preview. Use “Open help article” to view
-              the original source.
+              We couldn’t render this preview quickly. Use “Open help article”
+              to view the original source.
             </div>
           )}
         </section>
