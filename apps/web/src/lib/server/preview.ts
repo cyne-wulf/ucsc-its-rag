@@ -246,9 +246,9 @@ export function buildPreviewDocument(options: PreviewTemplateOptions) {
         if(el){
           el.classList.add("preview-anchor-hit");
           try {
-            el.scrollIntoView({ block: "start" });
+            window.scrollTo({ top: el.offsetTop, behavior: "instant" });
           } catch (err) {
-            el.scrollIntoView();
+            window.scrollTo(0, el.offsetTop);
           }
         }
       })();

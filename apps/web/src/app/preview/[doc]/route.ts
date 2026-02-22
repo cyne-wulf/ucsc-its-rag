@@ -15,7 +15,7 @@ const paramSchema = z.object({
 });
 
 export const runtime = "nodejs";
-export const revalidate = 0;
+export const revalidate = 3600;
 
 type PreviewRouteContext = {
   params: Promise<{ doc: string }>;
