@@ -1,6 +1,6 @@
 import OpenAI from "openai";
 import { env } from "./env";
-import { normalizeQuery } from "./normalize";
+import { normalizeQuery, augmentQuery } from "./normalize";
 
 const openai = new OpenAI({
   apiKey: env.OPENAI_API_KEY,
@@ -8,9 +8,10 @@ const openai = new OpenAI({
 
 export async function embedQuery(query: string) {
   const normalized = normalizeQuery(query);
+  const augmented = augmentQuery(normalized);
   const response = await openai.embeddings.create({
     model: env.EMBEDDING_MODEL,
-    input: normalized,
+    input: augmented,
   });
   return { vector: response.data[0].embedding, normalized };
 }
