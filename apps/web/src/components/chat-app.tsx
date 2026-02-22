@@ -111,6 +111,7 @@ export function ChatApp() {
   >("idle");
   const iframeRef = useRef<HTMLIFrameElement | null>(null);
   const previewTimeoutRef = useRef<number | null>(null);
+  const scrollLockRef = useRef<number | null>(null);
 
   const mutation = useMutation({
     mutationFn: fetchAnswer,
@@ -167,9 +168,11 @@ export function ChatApp() {
         window.clearTimeout(previewTimeoutRef.current);
         previewTimeoutRef.current = null;
       }
+      scrollLockRef.current = null;
       return;
     }
     setPreviewState("loading");
+    scrollLockRef.current = window.scrollY;
     if (previewTimeoutRef.current) {
       window.clearTimeout(previewTimeoutRef.current);
     }
@@ -200,13 +203,18 @@ export function ChatApp() {
       previewTimeoutRef.current = null;
     }
     setPreviewState("loaded");
-    window.setTimeout(() => {
-      try {
-        event.currentTarget.blur();
-      } catch {
-        // ignore
-      }
-    }, 0);
+    if (scrollLockRef.current !== null) {
+      const locked = scrollLockRef.current;
+      scrollLockRef.current = null;
+      window.requestAnimationFrame(() => {
+        window.scrollTo({ top: locked });
+      });
+    }
+    try {
+      event.currentTarget.blur();
+    } catch {
+      // ignore
+    }
   };
 
   const renderMessageContent = (message: Message) => {
