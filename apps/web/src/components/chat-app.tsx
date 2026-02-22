@@ -40,6 +40,10 @@ const markdownComponents: Components = {
   },
 };
 
+function stripBracketedCitations(text: string) {
+  return text.replace(/\s*\[(\d+)\]/g, "").trim();
+}
+
 async function fetchAnswer(question: string): Promise<AnswerResult> {
   const response = await fetch("/api/answer", {
     method: "POST",
@@ -111,12 +115,12 @@ export function ChatApp() {
       const assistantMessage: Message = {
         id: nanoid(),
         role: "assistant",
-        content: data.answer,
+        content: stripBracketedCitations(data.answer),
         sources: data.sources,
         fallback: data.fallbackMessage,
       };
       setMessages((prev) => [...prev, assistantMessage]);
-      setSelectedSource(data.sources[0] ?? null);
+      setSelectedSource(null);
       setLastMetadata(data.metadata);
     },
   });
