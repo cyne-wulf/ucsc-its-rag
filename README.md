@@ -1,4 +1,5 @@
-# UCSC ITS RAG
+# UCSC ITS RAG 
+>[Link to Web Demo](https://web-dt4ks5qe6-cyne-wulfs-projects.vercel.app/)
 
 Retrieval-augmented chatbot for UCSC Information Technology Services. This repo keeps everything self-hostable on a single machine: Next.js UI + API, Qdrant vector store, ingestion scripts, and Docker Compose for demos.
 
