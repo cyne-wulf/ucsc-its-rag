@@ -184,13 +184,14 @@ export function ChatApp() {
   const renderMessageContent = (message: Message) => {
     if (message.role === "assistant" || message.role === "system") {
       return (
-        <ReactMarkdown
-          className={styles.markdown}
-          remarkPlugins={[remarkGfm]}
-          components={markdownComponents}
-        >
-          {message.content}
-        </ReactMarkdown>
+        <div className={styles.markdown}>
+          <ReactMarkdown
+            remarkPlugins={[remarkGfm]}
+            components={markdownComponents}
+          >
+            {message.content}
+          </ReactMarkdown>
+        </div>
       );
     }
     return <p className={styles.userText}>{message.content}</p>;
