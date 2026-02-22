@@ -37,7 +37,7 @@ export async function getChunkPayload(id: string) {
   const records = await client.retrieve(env.INDEX_NAME, {
     ids: [id],
     with_payload: true,
-    with_vectors: false,
+    with_vector: false,
   });
   const record = records[0];
   if (!record?.payload) {

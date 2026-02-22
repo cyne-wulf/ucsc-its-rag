@@ -80,13 +80,14 @@ export function sanitizeArticleHtml(html: string, baseUrl?: string) {
     transformTags: {
       a: (tagName, attribs) => {
         const href = resolveUrl(attribs.href, baseUrl);
-        const attribsCopy = {
+        const attribsCopy: sanitizeHtml.Attributes = {
           ...attribs,
-          href,
           target: "_blank",
           rel: "noreferrer noopener",
-        } satisfies sanitizeHtml.Attributes;
-        if (!attribsCopy.href) {
+        };
+        if (href) {
+          attribsCopy.href = href;
+        } else {
           delete attribsCopy.href;
         }
         return { tagName, attribs: attribsCopy };
