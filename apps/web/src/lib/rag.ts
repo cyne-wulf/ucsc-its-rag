@@ -6,7 +6,7 @@ import { hashObject } from "./hash";
 import { logInfo } from "./logger";
 import { cleanSnippet } from "./normalize";
 import { buildPrompt } from "./prompt";
-import { searchQdrant } from "./qdrant";
+import { searchChunks } from "./vector-backend";
 import type { AnswerResult, RetrievedChunk, SourceDocument } from "./types";
 
 const retrievalCache = new LruCache<string, RetrievedChunk[]>(
@@ -43,7 +43,7 @@ export async function answerQuestion(question: string): Promise<AnswerResult> {
   let retrievalCached = Boolean(retrieved);
 
   if (!retrieved) {
-    retrieved = await searchQdrant(vector);
+    retrieved = await searchChunks(vector);
     retrievalCache.set(retrievalKey, retrieved);
     retrievalCached = false;
   }

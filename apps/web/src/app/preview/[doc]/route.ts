@@ -1,6 +1,6 @@
 import { NextRequest } from "next/server";
 import { z } from "zod";
-import { getChunkPayload } from "@/lib/qdrant";
+import { fetchChunkPayload } from "@/lib/vector-backend";
 import {
   buildChunkPreview,
   buildErrorDocument,
@@ -35,7 +35,7 @@ export async function GET(
   }
 
   try {
-    const payload = await getChunkPayload(parsed.data.doc);
+    const payload = await fetchChunkPayload(parsed.data.doc);
     if (!payload) {
       const html = buildErrorDocument("We couldn’t locate that citation.");
       return buildPreviewResponse(html, { status: 404, cacheable: false });

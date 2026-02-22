@@ -31,8 +31,10 @@ const {
   QDRANT_URL,
   INDEX_NAME,
   EMBEDDING_MODEL,
-  GEMINI_MODEL,
+  GEMINI_MODEL: RAW_GEMINI_MODEL,
 } = process.env;
+
+const GEMINI_MODEL = RAW_GEMINI_MODEL?.trim();
 
 const openai = new OpenAI({ apiKey: OPENAI_API_KEY! });
 const qdrant = new QdrantClient({

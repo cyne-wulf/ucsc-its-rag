@@ -1,6 +1,6 @@
 import { NextRequest } from "next/server";
 import { z } from "zod";
-import { getChunkPayload } from "@/lib/qdrant";
+import { fetchChunkPayload } from "@/lib/vector-backend";
 import {
   buildChunkPreview,
   buildErrorDocument,
@@ -32,7 +32,7 @@ export async function GET(request: NextRequest) {
   }
 
   try {
-    const payload = await getChunkPayload(parsed.data.doc);
+    const payload = await fetchChunkPayload(parsed.data.doc);
     if (!payload) {
       const missHtml = buildErrorDocument(
         "We couldn’t find that knowledge base excerpt.",

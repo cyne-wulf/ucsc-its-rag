@@ -37,9 +37,39 @@ async function fetchAnswer(question: string): Promise<AnswerResult> {
   });
 
   if (!response.ok) {
-    const body = await response.json().catch(() => ({}));
-    throw new Error(body.error || "Request failed");
+    let body: {
+      error?: string;
+      code?: string;
+      details?: Record<string, unknown>;
+    } | null = null;
+    try {
+      body = await response.json();
+    } catch {
+      const text = await response.text().catch(() => "");
+      throw new Error(text || "Request failed");
+    }
+
+    const details = body?.details as Record<string, unknown> | undefined;
+    const geminiMessage =
+      typeof details?.["geminiMessage"] === "string"
+        ? (details["geminiMessage"] as string)
+        : undefined;
+    const fallbackDetail =
+      typeof details?.["message"] === "string"
+        ? (details["message"] as string)
+        : undefined;
+
+    const parts = [
+      body?.error,
+      body?.code ? `[${body.code}]` : "",
+      geminiMessage ?? fallbackDetail ?? "",
+    ]
+      .map((part) => (typeof part === "string" ? part.trim() : ""))
+      .filter(Boolean);
+
+    throw new Error(parts.join(" ") || "Request failed");
   }
+
   return response.json();
 }
 

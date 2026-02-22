@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
 import { answerQuestion } from "@/lib/rag";
 import { logError, logInfo } from "@/lib/logger";
+import { isRagError } from "@/lib/errors";
 
 const bodySchema = z.object({
   question: z.string().min(4).max(2000),
@@ -34,8 +35,24 @@ export async function POST(request: NextRequest) {
     });
     return NextResponse.json(result);
   } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    if (isRagError(error)) {
+      logError("api.answer.error", {
+        message: error.message,
+        code: error.code,
+        details: error.details,
+      });
+      return NextResponse.json(
+        {
+          error: error.message,
+          code: error.code,
+          details: error.details,
+        },
+        { status: error.status },
+      );
+    }
     logError("api.answer.error", {
-      message: error instanceof Error ? error.message : String(error),
+      message,
     });
     return NextResponse.json(
       { error: "Unable to generate an answer at this time." },

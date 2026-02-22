@@ -10,7 +10,7 @@ Vercel can host the Next.js UI + API. You still need a managed Qdrant cluster pl
    - Record the HTTPS endpoint and API key.
 2. **OpenAI & Gemini keys**  
    - `OPENAI_API_KEY` should have access to `text-embedding-3-small`.  
-   - `GEMINI_API_KEY` should have access to `models/gemini-1.5-flash` and `models/gemini-2.5-flash`.
+   - `GEMINI_API_KEY` must have access to `models/gemini-2.5-flash` (our default). Keep `models/gemini-1.5-flash` enabled only if you plan to override `GEMINI_MODEL` for compatibility testing.
 
 ## 2. Ship knowledge base content
 
@@ -62,6 +62,7 @@ Run `pnpm dlx vercel env pull --cwd apps/web .env.local` once to get a local cop
 | `ACRONYM_MAP` | JSON like `{"ITS":"Information Technology Services"}` |
 | `KB_ROOT_DIR` | Optional absolute path to snapshot HTML if you sync them to persistent storage |
 | `KB_HISTORY_PATH` | Optional explicit path to `ingest-history.json` |
+| `VECTOR_BACKEND` | `local` when you bundle `apps/web/vector-store/vector-store.json` |
 
 Vercel automatically exposes them to both the serverless API routes and client bundle (because this app only consumes them server-side).
 
@@ -90,5 +91,17 @@ After the first deploy, connect the GitHub repo to the same project so that push
 - Use the “Preview pane” in the UI to ensure snapshots render; if not, set `KB_ROOT_DIR` to a Cloud Storage bucket path or skip previews.  
 - Monitor the Vercel function logs for `api.answer.error` messages.  
 - Add an uptime check (Better Stack, Pingdom, etc.) on the production endpoint.
+
+### Bundled vector store option
+
+Qdrant is great while iterating locally, but Vercel cannot reach `localhost:6333`. To make the deployment self-contained:
+
+1. Run `pnpm --filter scripts run build-index`. The script re-embeds every chunk via OpenAI and writes two files:
+   - `data/kb/vector-store.json` (canonical source)
+   - `apps/web/vector-store/vector-store.json` (consumed by the Next.js API routes)
+2. Set `VECTOR_BACKEND=local` for both Preview and Production environments (`vercel env add VECTOR_BACKEND production` etc.).
+3. Redeploy with `pnpm dlx vercel --cwd apps/web --prod`. During runtime the API simply loads the JSON payload, computes cosine similarity in-process, and returns answers without ever hitting Qdrant.
+
+Whenever you refresh the KB (new raw HTML or updated articles), rerun the `build-index` script so the bundled vectors stay aligned with the content.
 
 > Need higher throughput? Slide the Vercel plan to Pro to bump the serverless timeout to 60s and enable autoscaling regions closer to California.
