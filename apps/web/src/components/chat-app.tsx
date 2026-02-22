@@ -8,6 +8,7 @@ import {
   SyntheticEvent,
   useEffect,
   useMemo,
+  useRef,
   useState,
 } from "react";
 import clsx from "clsx";
@@ -108,6 +109,7 @@ export function ChatApp() {
   const [previewState, setPreviewState] = useState<
     "idle" | "loading" | "loaded" | "error"
   >("idle");
+  const iframeRef = useRef<HTMLIFrameElement | null>(null);
 
   const mutation = useMutation({
     mutationFn: fetchAnswer,
@@ -120,7 +122,7 @@ export function ChatApp() {
         fallback: data.fallbackMessage,
       };
       setMessages((prev) => [...prev, assistantMessage]);
-      setSelectedSource(null);
+      setSelectedSource(data.sources[0] ?? null);
       setLastMetadata(data.metadata);
     },
   });
@@ -183,6 +185,13 @@ export function ChatApp() {
       // ignore access errors – treat as loaded
     }
     setPreviewState("loaded");
+    window.setTimeout(() => {
+      try {
+        event.currentTarget.blur();
+      } catch {
+        // ignore
+      }
+    }, 0);
   };
 
   const renderMessageContent = (message: Message) => {
@@ -375,10 +384,12 @@ export function ChatApp() {
           {previewUrl ? (
             <iframe
               key={previewUrl}
+              ref={iframeRef}
               className={styles.previewFrame}
               src={previewUrl}
               title="ITS Knowledge Base preview"
               sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+              tabIndex={-1}
               onLoad={handleIframeLoad}
               onError={() => setPreviewState("error")}
             />
